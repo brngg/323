@@ -1,0 +1,4054 @@
+
+In listInsert method
+Returns from findSpot where Spot.data is dummy
+listHead ->(dummy, The) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is dummy
+listHead ->(dummy, Old) -> (Old, The) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is dummy
+listHead ->(dummy, Man) -> (Man, Old) -> (Old, The) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is dummy
+listHead ->(dummy, and) -> (and, Man) -> (Man, Old) -> (Old, The) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is Old
+listHead ->(dummy, and) -> (and, Man) -> (Man, Old) -> (Old, the) -> (the, The) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is Old
+listHead ->(dummy, and) -> (and, Man) -> (Man, Old) -> (Old, Sea) -> (Sea, the) -> 
+
+(the, The) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is Sea
+listHead ->(dummy, and) -> (and, Man) -> (Man, Old) -> (Old, Sea) -> (Sea, tells) -> 
+
+(tells, the) -> (the, The) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is tells
+listHead ->(dummy, and) -> (and, Man) -> (Man, Old) -> (Old, Sea) -> (Sea, tells) -> 
+
+(tells, the) -> (the, the) -> (the, The) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is Sea
+listHead ->(dummy, and) -> (and, Man) -> (Man, Old) -> (Old, Sea) -> (Sea, story) -> 
+
+(story, tells) -> (tells, the) -> (the, the) -> (the, The) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is Man
+listHead ->(dummy, and) -> (and, Man) -> (Man, of) -> (of, Old) -> (Old, Sea) -> 
+
+(Sea, story) -> (story, tells) -> (tells, the) -> (the, the) -> (the, The) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is dummy
+listHead ->(dummy, a) -> (a, and) -> (and, Man) -> (Man, of) -> (of, Old) -> 
+
+(Old, Sea) -> (Sea, story) -> (story, tells) -> (tells, the) -> (the, the) -> 
+
+(the, The) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is and
+listHead ->(dummy, a) -> (a, and) -> (and, battle) -> (battle, Man) -> (Man, of) -> 
+
+(of, Old) -> (Old, Sea) -> (Sea, story) -> (story, tells) -> (tells, the) -> 
+
+(the, the) -> (the, The) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is battle
+listHead ->(dummy, a) -> (a, and) -> (and, battle) -> (battle, between) -> (between, Man) -> 
+
+(Man, of) -> (of, Old) -> (Old, Sea) -> (Sea, story) -> (story, tells) -> 
+
+(tells, the) -> (the, the) -> (the, The) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is a
+listHead ->(dummy, a) -> (a, an) -> (an, and) -> (and, battle) -> (battle, between) -> 
+
+(between, Man) -> (Man, of) -> (of, Old) -> (Old, Sea) -> (Sea, story) -> 
+
+(story, tells) -> (tells, the) -> (the, the) -> (the, The) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is a
+listHead ->(dummy, a) -> (a, aging) -> (aging, an) -> (an, and) -> (and, battle) -> 
+
+(battle, between) -> (between, Man) -> (Man, of) -> (of, Old) -> (Old, Sea) -> 
+
+(Sea, story) -> (story, tells) -> (tells, the) -> (the, the) -> (the, The) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is between
+listHead ->(dummy, a) -> (a, aging) -> (aging, an) -> (an, and) -> (and, battle) -> 
+
+(battle, between) -> (between, experienced) -> (experienced, Man) -> (Man, of) -> (of, Old) -> 
+
+(Old, Sea) -> (Sea, story) -> (story, tells) -> (tells, the) -> (the, the) -> 
+
+(the, The) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is experienced
+listHead ->(dummy, a) -> (a, aging) -> (aging, an) -> (an, and) -> (and, battle) -> 
+
+(battle, between) -> (between, experienced) -> (experienced, fisherman) -> (fisherman, Man) -> (Man, of) -> 
+
+(of, Old) -> (Old, Sea) -> (Sea, story) -> (story, tells) -> (tells, the) -> 
+
+(the, the) -> (the, The) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is Old
+listHead ->(dummy, a) -> (a, aging) -> (aging, an) -> (an, and) -> (and, battle) -> 
+
+(battle, between) -> (between, experienced) -> (experienced, fisherman) -> (fisherman, Man) -> (Man, of) -> 
+
+(of, Old) -> (Old, Santiago) -> (Santiago, Sea) -> (Sea, story) -> (story, tells) -> 
+
+(tells, the) -> (the, the) -> (the, The) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is an
+listHead ->(dummy, a) -> (a, aging) -> (aging, an) -> (an, and) -> (and, and) -> 
+
+(and, battle) -> (battle, between) -> (between, experienced) -> (experienced, fisherman) -> (fisherman, Man) -> 
+
+(Man, of) -> (of, Old) -> (Old, Santiago) -> (Santiago, Sea) -> (Sea, story) -> 
+
+(story, tells) -> (tells, the) -> (the, the) -> (the, The) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is dummy
+listHead ->(dummy, a) -> (a, a) -> (a, aging) -> (aging, an) -> (an, and) -> 
+
+(and, and) -> (and, battle) -> (battle, between) -> (between, experienced) -> (experienced, fisherman) -> 
+
+(fisherman, Man) -> (Man, of) -> (of, Old) -> (Old, Santiago) -> (Santiago, Sea) -> 
+
+(Sea, story) -> (story, tells) -> (tells, the) -> (the, the) -> (the, The) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is fisherman
+listHead ->(dummy, a) -> (a, a) -> (a, aging) -> (aging, an) -> (an, and) -> 
+
+(and, and) -> (and, battle) -> (battle, between) -> (between, experienced) -> (experienced, fisherman) -> 
+
+(fisherman, large) -> (large, Man) -> (Man, of) -> (of, Old) -> (Old, Santiago) -> 
+
+(Santiago, Sea) -> (Sea, story) -> (story, tells) -> (tells, the) -> (the, the) -> 
+
+(the, The) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is Man
+listHead ->(dummy, a) -> (a, a) -> (a, aging) -> (aging, an) -> (an, and) -> 
+
+(and, and) -> (and, battle) -> (battle, between) -> (between, experienced) -> (experienced, fisherman) -> 
+
+(fisherman, large) -> (large, Man) -> (Man, marlin) -> (marlin, of) -> (of, Old) -> 
+
+(Old, Santiago) -> (Santiago, Sea) -> (Sea, story) -> (story, tells) -> (tells, the) -> 
+
+(the, the) -> (the, The) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is tells
+listHead ->(dummy, a) -> (a, a) -> (a, aging) -> (aging, an) -> (an, and) -> 
+
+(and, and) -> (and, battle) -> (battle, between) -> (between, experienced) -> (experienced, fisherman) -> 
+
+(fisherman, large) -> (large, Man) -> (Man, marlin) -> (marlin, of) -> (of, Old) -> 
+
+(Old, Santiago) -> (Santiago, Sea) -> (Sea, story) -> (story, tells) -> (tells, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is Sea
+listHead ->(dummy, a) -> (a, a) -> (a, aging) -> (aging, an) -> (an, and) -> 
+
+(and, and) -> (and, battle) -> (battle, between) -> (between, experienced) -> (experienced, fisherman) -> 
+
+(fisherman, large) -> (large, Man) -> (Man, marlin) -> (marlin, of) -> (of, Old) -> 
+
+(Old, Santiago) -> (Santiago, Sea) -> (Sea, story) -> (story, story) -> (story, tells) -> 
+
+(tells, The) -> (The, the) -> (the, the) -> (the, The) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is Old
+listHead ->(dummy, a) -> (a, a) -> (a, aging) -> (aging, an) -> (an, and) -> 
+
+(and, and) -> (and, battle) -> (battle, between) -> (between, experienced) -> (experienced, fisherman) -> 
+
+(fisherman, large) -> (large, Man) -> (Man, marlin) -> (marlin, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, Santiago) -> (Santiago, Sea) -> (Sea, story) -> (story, story) -> 
+
+(story, tells) -> (tells, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is The
+listHead ->(dummy, a) -> (a, a) -> (a, aging) -> (aging, an) -> (an, and) -> 
+
+(and, and) -> (and, battle) -> (battle, between) -> (between, experienced) -> (experienced, fisherman) -> 
+
+(fisherman, large) -> (large, Man) -> (Man, marlin) -> (marlin, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, Santiago) -> (Santiago, Sea) -> (Sea, story) -> (story, story) -> 
+
+(story, tells) -> (tells, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, with) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is opens
+listHead ->(dummy, a) -> (a, a) -> (a, aging) -> (aging, an) -> (an, and) -> 
+
+(and, and) -> (and, battle) -> (battle, between) -> (between, experienced) -> (experienced, fisherman) -> 
+
+(fisherman, large) -> (large, Man) -> (Man, marlin) -> (marlin, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, story) -> 
+
+(story, story) -> (story, tells) -> (tells, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, with) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is fisherman
+listHead ->(dummy, a) -> (a, a) -> (a, aging) -> (aging, an) -> (an, and) -> 
+
+(and, and) -> (and, battle) -> (battle, between) -> (between, experienced) -> (experienced, fisherman) -> 
+
+(fisherman, having) -> (having, large) -> (large, Man) -> (Man, marlin) -> (marlin, of) -> 
+
+(of, Old) -> (Old, opens) -> (opens, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> 
+
+(Sea, story) -> (story, story) -> (story, tells) -> (tells, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, with) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is fisherman
+listHead ->(dummy, a) -> (a, a) -> (a, aging) -> (aging, an) -> (an, and) -> 
+
+(and, and) -> (and, battle) -> (battle, between) -> (between, experienced) -> (experienced, fisherman) -> 
+
+(fisherman, gone) -> (gone, having) -> (having, large) -> (large, Man) -> (Man, marlin) -> 
+
+(marlin, of) -> (of, Old) -> (Old, opens) -> (opens, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Sea) -> (Sea, story) -> (story, story) -> (story, tells) -> (tells, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, with) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is dummy
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, aging) -> (aging, an) -> 
+
+(an, and) -> (and, and) -> (and, battle) -> (battle, between) -> (between, experienced) -> 
+
+(experienced, fisherman) -> (fisherman, gone) -> (gone, having) -> (having, large) -> (large, Man) -> 
+
+(Man, marlin) -> (marlin, of) -> (of, Old) -> (Old, opens) -> (opens, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Sea) -> (Sea, story) -> (story, story) -> (story, tells) -> 
+
+(tells, The) -> (The, the) -> (the, the) -> (the, The) -> (The, with) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is between
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, aging) -> (aging, an) -> 
+
+(an, and) -> (and, and) -> (and, battle) -> (battle, between) -> (between, days) -> 
+
+(days, experienced) -> (experienced, fisherman) -> (fisherman, gone) -> (gone, having) -> (having, large) -> 
+
+(large, Man) -> (Man, marlin) -> (marlin, of) -> (of, Old) -> (Old, opens) -> 
+
+(opens, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, story) -> (story, story) -> 
+
+(story, tells) -> (tells, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, with) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is with
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, aging) -> (aging, an) -> 
+
+(an, and) -> (and, and) -> (and, battle) -> (battle, between) -> (between, days) -> 
+
+(days, experienced) -> (experienced, fisherman) -> (fisherman, gone) -> (gone, having) -> (having, large) -> 
+
+(large, Man) -> (Man, marlin) -> (marlin, of) -> (of, Old) -> (Old, opens) -> 
+
+(opens, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, story) -> (story, story) -> 
+
+(story, tells) -> (tells, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, with) -> (with, without) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is between
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, aging) -> (aging, an) -> 
+
+(an, and) -> (and, and) -> (and, battle) -> (battle, between) -> (between, catching) -> 
+
+(catching, days) -> (days, experienced) -> (experienced, fisherman) -> (fisherman, gone) -> (gone, having) -> 
+
+(having, large) -> (large, Man) -> (Man, marlin) -> (marlin, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, story) -> 
+
+(story, story) -> (story, tells) -> (tells, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, with) -> (with, without) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is 84
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, battle) -> (battle, between) -> 
+
+(between, catching) -> (catching, days) -> (days, experienced) -> (experienced, fisherman) -> (fisherman, gone) -> 
+
+(gone, having) -> (having, large) -> (large, Man) -> (Man, marlin) -> (marlin, of) -> 
+
+(of, Old) -> (Old, opens) -> (opens, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> 
+
+(Sea, story) -> (story, story) -> (story, tells) -> (tells, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, with) -> (with, without) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is experienced
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, battle) -> (battle, between) -> 
+
+(between, catching) -> (catching, days) -> (days, experienced) -> (experienced, fish) -> (fish, fisherman) -> 
+
+(fisherman, gone) -> (gone, having) -> (having, large) -> (large, Man) -> (Man, marlin) -> 
+
+(marlin, of) -> (of, Old) -> (Old, opens) -> (opens, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Sea) -> (Sea, story) -> (story, story) -> (story, tells) -> (tells, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, with) -> (with, without) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is an
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, battle) -> 
+
+(battle, between) -> (between, catching) -> (catching, days) -> (days, experienced) -> (experienced, fish) -> 
+
+(fish, fisherman) -> (fisherman, gone) -> (gone, having) -> (having, large) -> (large, Man) -> 
+
+(Man, marlin) -> (marlin, of) -> (of, Old) -> (Old, opens) -> (opens, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Sea) -> (Sea, story) -> (story, story) -> (story, tells) -> 
+
+(tells, The) -> (The, the) -> (the, the) -> (the, The) -> (The, with) -> 
+
+(with, without) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is marlin
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, battle) -> 
+
+(battle, between) -> (between, catching) -> (catching, days) -> (days, experienced) -> (experienced, fish) -> 
+
+(fish, fisherman) -> (fisherman, gone) -> (gone, having) -> (having, large) -> (large, Man) -> 
+
+(Man, marlin) -> (marlin, now) -> (now, of) -> (of, Old) -> (Old, opens) -> 
+
+(opens, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, story) -> (story, story) -> 
+
+(story, tells) -> (tells, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, with) -> (with, without) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is battle
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, battle) -> 
+
+(battle, being) -> (being, between) -> (between, catching) -> (catching, days) -> (days, experienced) -> 
+
+(experienced, fish) -> (fish, fisherman) -> (fisherman, gone) -> (gone, having) -> (having, large) -> 
+
+(large, Man) -> (Man, marlin) -> (marlin, now) -> (now, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, story) -> 
+
+(story, story) -> (story, tells) -> (tells, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, with) -> (with, without) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is Sea
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, battle) -> 
+
+(battle, being) -> (being, between) -> (between, catching) -> (catching, days) -> (days, experienced) -> 
+
+(experienced, fish) -> (fish, fisherman) -> (fisherman, gone) -> (gone, having) -> (having, large) -> 
+
+(large, Man) -> (Man, marlin) -> (marlin, now) -> (now, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> 
+
+(seen, story) -> (story, story) -> (story, tells) -> (tells, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, with) -> (with, without) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is and
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, as) -> 
+
+(as, battle) -> (battle, being) -> (being, between) -> (between, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, gone) -> (gone, having) -> 
+
+(having, large) -> (large, Man) -> (Man, marlin) -> (marlin, now) -> (now, of) -> 
+
+(of, Old) -> (Old, opens) -> (opens, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> 
+
+(Sea, seen) -> (seen, story) -> (story, story) -> (story, tells) -> (tells, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, with) -> (with, without) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is opens
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, as) -> 
+
+(as, battle) -> (battle, being) -> (being, between) -> (between, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, gone) -> (gone, having) -> 
+
+(having, large) -> (large, Man) -> (Man, marlin) -> (marlin, now) -> (now, of) -> 
+
+(of, Old) -> (Old, opens) -> (opens, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Sea) -> (Sea, seen) -> (seen, story) -> (story, story) -> (story, tells) -> 
+
+(tells, The) -> (The, the) -> (the, the) -> (the, The) -> (The, with) -> 
+
+(with, without) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is tells
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, as) -> 
+
+(as, battle) -> (battle, being) -> (being, between) -> (between, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, gone) -> (gone, having) -> 
+
+(having, large) -> (large, Man) -> (Man, marlin) -> (marlin, now) -> (now, of) -> 
+
+(of, Old) -> (Old, opens) -> (opens, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Sea) -> (Sea, seen) -> (seen, story) -> (story, story) -> (story, tells) -> 
+
+(tells, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, with) -> (with, without) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is without
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, as) -> 
+
+(as, battle) -> (battle, being) -> (being, between) -> (between, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, gone) -> (gone, having) -> 
+
+(having, large) -> (large, Man) -> (Man, marlin) -> (marlin, now) -> (now, of) -> 
+
+(of, Old) -> (Old, opens) -> (opens, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Sea) -> (Sea, seen) -> (seen, story) -> (story, story) -> (story, tells) -> 
+
+(tells, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, with) -> (with, without) -> (without, worst) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is fisherman
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, as) -> 
+
+(as, battle) -> (battle, being) -> (being, between) -> (between, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, form) -> (form, gone) -> 
+
+(gone, having) -> (having, large) -> (large, Man) -> (Man, marlin) -> (marlin, now) -> 
+
+(now, of) -> (of, Old) -> (Old, opens) -> (opens, salao) -> (salao, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> (seen, story) -> (story, story) -> 
+
+(story, tells) -> (tells, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, with) -> (with, without) -> (without, worst) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is now
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, as) -> 
+
+(as, battle) -> (battle, being) -> (being, between) -> (between, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, form) -> (form, gone) -> 
+
+(gone, having) -> (having, large) -> (large, Man) -> (Man, marlin) -> (marlin, now) -> 
+
+(now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> (opens, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> (seen, story) -> 
+
+(story, story) -> (story, tells) -> (tells, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, with) -> (with, without) -> (without, worst) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is The
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, as) -> 
+
+(as, battle) -> (battle, being) -> (being, between) -> (between, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, form) -> (form, gone) -> 
+
+(gone, having) -> (having, large) -> (large, Man) -> (Man, marlin) -> (marlin, now) -> 
+
+(now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> (opens, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> (seen, story) -> 
+
+(story, story) -> (story, tells) -> (tells, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, unluckiness) -> (unluckiness, with) -> (with, without) -> 
+
+(without, worst) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is having
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, as) -> 
+
+(as, battle) -> (battle, being) -> (being, between) -> (between, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, form) -> (form, gone) -> 
+
+(gone, having) -> (having, He) -> (He, large) -> (large, Man) -> (Man, marlin) -> 
+
+(marlin, now) -> (now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> 
+
+(opens, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> 
+
+(seen, story) -> (story, story) -> (story, tells) -> (tells, the) -> (the, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, unluckiness) -> (unluckiness, with) -> 
+
+(with, without) -> (without, worst) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is He
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, as) -> 
+
+(as, battle) -> (battle, being) -> (being, between) -> (between, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, form) -> (form, gone) -> 
+
+(gone, having) -> (having, He) -> (He, is) -> (is, large) -> (large, Man) -> 
+
+(Man, marlin) -> (marlin, now) -> (now, of) -> (of, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> 
+
+(Sea, seen) -> (seen, story) -> (story, story) -> (story, tells) -> (tells, the) -> 
+
+(the, The) -> (The, the) -> (the, the) -> (the, The) -> (The, unluckiness) -> 
+
+(unluckiness, with) -> (with, without) -> (without, worst) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is seen
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, as) -> 
+
+(as, battle) -> (battle, being) -> (being, between) -> (between, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, form) -> (form, gone) -> 
+
+(gone, having) -> (having, He) -> (He, is) -> (is, large) -> (large, Man) -> 
+
+(Man, marlin) -> (marlin, now) -> (now, of) -> (of, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> 
+
+(Sea, seen) -> (seen, so) -> (so, story) -> (story, story) -> (story, tells) -> 
+
+(tells, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, unluckiness) -> (unluckiness, with) -> (with, without) -> (without, worst) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is unluckiness
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, as) -> 
+
+(as, battle) -> (battle, being) -> (being, between) -> (between, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, form) -> (form, gone) -> 
+
+(gone, having) -> (having, He) -> (He, is) -> (is, large) -> (large, Man) -> 
+
+(Man, marlin) -> (marlin, now) -> (now, of) -> (of, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> 
+
+(Sea, seen) -> (seen, so) -> (so, story) -> (story, story) -> (story, tells) -> 
+
+(tells, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> (with, without) -> (without, worst) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is tells
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, as) -> 
+
+(as, battle) -> (battle, being) -> (being, between) -> (between, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, form) -> (form, gone) -> 
+
+(gone, having) -> (having, He) -> (He, is) -> (is, large) -> (large, Man) -> 
+
+(Man, marlin) -> (marlin, now) -> (now, of) -> (of, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> 
+
+(Sea, seen) -> (seen, so) -> (so, story) -> (story, story) -> (story, tells) -> 
+
+(tells, that) -> (that, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> (with, without) -> 
+
+(without, worst) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is He
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, as) -> 
+
+(as, battle) -> (battle, being) -> (being, between) -> (between, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, form) -> (form, gone) -> 
+
+(gone, having) -> (having, He) -> (He, his) -> (his, is) -> (is, large) -> 
+
+(large, Man) -> (Man, marlin) -> (marlin, now) -> (now, of) -> (of, of) -> 
+
+(of, Old) -> (Old, opens) -> (opens, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Sea) -> (Sea, seen) -> (seen, so) -> (so, story) -> (story, story) -> 
+
+(story, tells) -> (tells, that) -> (that, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> 
+
+(with, without) -> (without, worst) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is worst
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, as) -> 
+
+(as, battle) -> (battle, being) -> (being, between) -> (between, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, form) -> (form, gone) -> 
+
+(gone, having) -> (having, He) -> (He, his) -> (his, is) -> (is, large) -> 
+
+(large, Man) -> (Man, marlin) -> (marlin, now) -> (now, of) -> (of, of) -> 
+
+(of, Old) -> (Old, opens) -> (opens, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Sea) -> (Sea, seen) -> (seen, so) -> (so, story) -> (story, story) -> 
+
+(story, tells) -> (tells, that) -> (that, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> 
+
+(with, without) -> (without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is and
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, apprentice) -> 
+
+(apprentice, as) -> (as, battle) -> (battle, being) -> (being, between) -> (between, catching) -> 
+
+(catching, days) -> (days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, form) -> 
+
+(form, gone) -> (gone, having) -> (having, He) -> (He, his) -> (his, is) -> 
+
+(is, large) -> (large, Man) -> (Man, marlin) -> (marlin, now) -> (now, of) -> 
+
+(of, of) -> (of, Old) -> (Old, opens) -> (opens, salao) -> (salao, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> (seen, so) -> (so, story) -> 
+
+(story, story) -> (story, tells) -> (tells, that) -> (that, the) -> (the, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, unluckiness) -> (unluckiness, unlucky) -> 
+
+(unlucky, with) -> (with, without) -> (without, worst) -> (worst, young) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is Man
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, apprentice) -> 
+
+(apprentice, as) -> (as, battle) -> (battle, being) -> (being, between) -> (between, catching) -> 
+
+(catching, days) -> (days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, form) -> 
+
+(form, gone) -> (gone, having) -> (having, He) -> (He, his) -> (his, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> 
+
+(now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> (opens, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> (seen, so) -> 
+
+(so, story) -> (story, story) -> (story, tells) -> (tells, that) -> (that, the) -> 
+
+(the, The) -> (The, the) -> (the, the) -> (the, The) -> (The, unluckiness) -> 
+
+(unluckiness, unlucky) -> (unlucky, with) -> (with, without) -> (without, worst) -> (worst, young) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is gone
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, apprentice) -> 
+
+(apprentice, as) -> (as, battle) -> (battle, being) -> (being, between) -> (between, catching) -> 
+
+(catching, days) -> (days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, form) -> 
+
+(form, gone) -> (gone, has) -> (has, having) -> (having, He) -> (He, his) -> 
+
+(his, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, now) -> (now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> 
+
+(opens, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> 
+
+(seen, so) -> (so, story) -> (story, story) -> (story, tells) -> (tells, that) -> 
+
+(that, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> (with, without) -> (without, worst) -> 
+
+(worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is battle
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, apprentice) -> 
+
+(apprentice, as) -> (as, battle) -> (battle, been) -> (been, being) -> (being, between) -> 
+
+(between, catching) -> (catching, days) -> (days, experienced) -> (experienced, fish) -> (fish, fisherman) -> 
+
+(fisherman, form) -> (form, gone) -> (gone, has) -> (has, having) -> (having, He) -> 
+
+(He, his) -> (his, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> 
+
+(Manolin, marlin) -> (marlin, now) -> (now, of) -> (of, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> 
+
+(Sea, seen) -> (seen, so) -> (so, story) -> (story, story) -> (story, tells) -> 
+
+(tells, that) -> (that, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> (with, without) -> 
+
+(without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is fisherman
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, apprentice) -> 
+
+(apprentice, as) -> (as, battle) -> (battle, been) -> (been, being) -> (being, between) -> 
+
+(between, catching) -> (catching, days) -> (days, experienced) -> (experienced, fish) -> (fish, fisherman) -> 
+
+(fisherman, forbidden) -> (forbidden, form) -> (form, gone) -> (gone, has) -> (has, having) -> 
+
+(having, He) -> (He, his) -> (his, is) -> (is, large) -> (large, Man) -> 
+
+(Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> (now, of) -> (of, of) -> 
+
+(of, Old) -> (Old, opens) -> (opens, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Sea) -> (Sea, seen) -> (seen, so) -> (so, story) -> (story, story) -> 
+
+(story, tells) -> (tells, that) -> (that, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> 
+
+(with, without) -> (without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is between
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, apprentice) -> 
+
+(apprentice, as) -> (as, battle) -> (battle, been) -> (been, being) -> (being, between) -> 
+
+(between, by) -> (by, catching) -> (catching, days) -> (days, experienced) -> (experienced, fish) -> 
+
+(fish, fisherman) -> (fisherman, forbidden) -> (forbidden, form) -> (form, gone) -> (gone, has) -> 
+
+(has, having) -> (having, He) -> (He, his) -> (his, is) -> (is, large) -> 
+
+(large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> (now, of) -> 
+
+(of, of) -> (of, Old) -> (Old, opens) -> (opens, salao) -> (salao, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> (seen, so) -> (so, story) -> 
+
+(story, story) -> (story, tells) -> (tells, that) -> (that, the) -> (the, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, unluckiness) -> (unluckiness, unlucky) -> 
+
+(unlucky, with) -> (with, without) -> (without, worst) -> (worst, young) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is He
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, apprentice) -> 
+
+(apprentice, as) -> (as, battle) -> (battle, been) -> (been, being) -> (being, between) -> 
+
+(between, by) -> (by, catching) -> (catching, days) -> (days, experienced) -> (experienced, fish) -> 
+
+(fish, fisherman) -> (fisherman, forbidden) -> (forbidden, form) -> (form, gone) -> (gone, has) -> 
+
+(has, having) -> (having, He) -> (He, his) -> (his, his) -> (his, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> 
+
+(now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> (opens, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> (seen, so) -> 
+
+(so, story) -> (story, story) -> (story, tells) -> (tells, that) -> (that, the) -> 
+
+(the, The) -> (The, the) -> (the, the) -> (the, The) -> (The, unluckiness) -> 
+
+(unluckiness, unlucky) -> (unlucky, with) -> (with, without) -> (without, worst) -> (worst, young) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is opens
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, apprentice) -> 
+
+(apprentice, as) -> (as, battle) -> (battle, been) -> (been, being) -> (being, between) -> 
+
+(between, by) -> (by, catching) -> (catching, days) -> (days, experienced) -> (experienced, fish) -> 
+
+(fish, fisherman) -> (fisherman, forbidden) -> (forbidden, form) -> (form, gone) -> (gone, has) -> 
+
+(has, having) -> (having, He) -> (He, his) -> (his, his) -> (his, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> 
+
+(now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> (opens, parents) -> 
+
+(parents, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> 
+
+(seen, so) -> (so, story) -> (story, story) -> (story, tells) -> (tells, that) -> 
+
+(that, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> (with, without) -> (without, worst) -> 
+
+(worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is The
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, apprentice) -> 
+
+(apprentice, as) -> (as, battle) -> (battle, been) -> (been, being) -> (being, between) -> 
+
+(between, by) -> (by, catching) -> (catching, days) -> (days, experienced) -> (experienced, fish) -> 
+
+(fish, fisherman) -> (fisherman, forbidden) -> (forbidden, form) -> (form, gone) -> (gone, has) -> 
+
+(has, having) -> (having, He) -> (He, his) -> (his, his) -> (his, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> 
+
+(now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> (opens, parents) -> 
+
+(parents, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> 
+
+(seen, so) -> (so, story) -> (story, story) -> (story, tells) -> (tells, that) -> 
+
+(that, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, to) -> (to, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> (with, without) -> 
+
+(without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is parents
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, apprentice) -> 
+
+(apprentice, as) -> (as, battle) -> (battle, been) -> (been, being) -> (being, between) -> 
+
+(between, by) -> (by, catching) -> (catching, days) -> (days, experienced) -> (experienced, fish) -> 
+
+(fish, fisherman) -> (fisherman, forbidden) -> (forbidden, form) -> (form, gone) -> (gone, has) -> 
+
+(has, having) -> (having, He) -> (He, his) -> (his, his) -> (his, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> 
+
+(now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> (opens, parents) -> 
+
+(parents, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> 
+
+(Sea, seen) -> (seen, so) -> (so, story) -> (story, story) -> (story, tells) -> 
+
+(tells, that) -> (that, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> 
+
+(with, without) -> (without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is unlucky
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, apprentice) -> 
+
+(apprentice, as) -> (as, battle) -> (battle, been) -> (been, being) -> (being, between) -> 
+
+(between, by) -> (by, catching) -> (catching, days) -> (days, experienced) -> (experienced, fish) -> 
+
+(fish, fisherman) -> (fisherman, forbidden) -> (forbidden, form) -> (form, gone) -> (gone, has) -> 
+
+(has, having) -> (having, He) -> (He, his) -> (his, his) -> (his, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> 
+
+(now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> (opens, parents) -> 
+
+(parents, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> 
+
+(Sea, seen) -> (seen, so) -> (so, story) -> (story, story) -> (story, tells) -> 
+
+(tells, that) -> (that, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> 
+
+(with, with) -> (with, without) -> (without, worst) -> (worst, young) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is He
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, apprentice) -> 
+
+(apprentice, as) -> (as, battle) -> (battle, been) -> (been, being) -> (being, between) -> 
+
+(between, by) -> (by, catching) -> (catching, days) -> (days, experienced) -> (experienced, fish) -> 
+
+(fish, fisherman) -> (fisherman, forbidden) -> (forbidden, form) -> (form, gone) -> (gone, has) -> 
+
+(has, having) -> (having, He) -> (He, him) -> (him, his) -> (his, his) -> 
+
+(his, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, now) -> (now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> 
+
+(opens, parents) -> (parents, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Sea) -> (Sea, seen) -> (seen, so) -> (so, story) -> (story, story) -> 
+
+(story, tells) -> (tells, that) -> (that, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, to) -> (to, unluckiness) -> (unluckiness, unlucky) -> 
+
+(unlucky, with) -> (with, with) -> (with, without) -> (without, worst) -> (worst, young) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is an
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, being) -> 
+
+(being, between) -> (between, by) -> (by, catching) -> (catching, days) -> (days, experienced) -> 
+
+(experienced, fish) -> (fish, fisherman) -> (fisherman, forbidden) -> (forbidden, form) -> (form, gone) -> 
+
+(gone, has) -> (has, having) -> (having, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> 
+
+(Manolin, marlin) -> (marlin, now) -> (now, of) -> (of, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, parents) -> (parents, sail) -> (sail, salao) -> (salao, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> (seen, so) -> (so, story) -> 
+
+(story, story) -> (story, tells) -> (tells, that) -> (that, the) -> (the, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, to) -> (to, unluckiness) -> 
+
+(unluckiness, unlucky) -> (unlucky, with) -> (with, with) -> (with, without) -> (without, worst) -> 
+
+(worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is gone
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, being) -> 
+
+(being, between) -> (between, by) -> (by, catching) -> (catching, days) -> (days, experienced) -> 
+
+(experienced, fish) -> (fish, fisherman) -> (fisherman, forbidden) -> (forbidden, form) -> (form, gone) -> 
+
+(gone, has) -> (has, has) -> (has, having) -> (having, He) -> (He, him) -> 
+
+(him, his) -> (his, his) -> (his, is) -> (is, large) -> (large, Man) -> 
+
+(Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> (now, of) -> (of, of) -> 
+
+(of, Old) -> (Old, opens) -> (opens, parents) -> (parents, sail) -> (sail, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> (seen, so) -> 
+
+(so, story) -> (story, story) -> (story, tells) -> (tells, that) -> (that, the) -> 
+
+(the, The) -> (The, the) -> (the, the) -> (the, The) -> (The, to) -> 
+
+(to, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> (with, with) -> (with, without) -> 
+
+(without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is battle
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, by) -> (by, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, forbidden) -> (forbidden, form) -> 
+
+(form, gone) -> (gone, has) -> (has, has) -> (has, having) -> (having, He) -> 
+
+(He, him) -> (him, his) -> (his, his) -> (his, is) -> (is, large) -> 
+
+(large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> (now, of) -> 
+
+(of, of) -> (of, Old) -> (Old, opens) -> (opens, parents) -> (parents, sail) -> 
+
+(sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> 
+
+(seen, so) -> (so, story) -> (story, story) -> (story, tells) -> (tells, that) -> 
+
+(that, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, to) -> (to, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> (with, with) -> 
+
+(with, without) -> (without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is to
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, by) -> (by, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, forbidden) -> (forbidden, form) -> 
+
+(form, gone) -> (gone, has) -> (has, has) -> (has, having) -> (having, He) -> 
+
+(He, him) -> (him, his) -> (his, his) -> (his, is) -> (is, large) -> 
+
+(large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> (now, of) -> 
+
+(of, of) -> (of, Old) -> (Old, opens) -> (opens, parents) -> (parents, sail) -> 
+
+(sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> 
+
+(seen, so) -> (so, story) -> (story, story) -> (story, tells) -> (tells, that) -> 
+
+(that, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> 
+
+(with, with) -> (with, without) -> (without, worst) -> (worst, young) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is his
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, by) -> (by, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, forbidden) -> (forbidden, form) -> 
+
+(form, gone) -> (gone, has) -> (has, has) -> (has, having) -> (having, He) -> 
+
+(He, him) -> (him, his) -> (his, his) -> (his, instead) -> (instead, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> 
+
+(now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> (opens, parents) -> 
+
+(parents, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> 
+
+(Sea, seen) -> (seen, so) -> (so, story) -> (story, story) -> (story, tells) -> 
+
+(tells, that) -> (that, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> 
+
+(unlucky, with) -> (with, with) -> (with, without) -> (without, worst) -> (worst, young) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is The
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, by) -> (by, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fisherman) -> (fisherman, forbidden) -> (forbidden, form) -> 
+
+(form, gone) -> (gone, has) -> (has, has) -> (has, having) -> (having, He) -> 
+
+(He, him) -> (him, his) -> (his, his) -> (his, instead) -> (instead, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> 
+
+(now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> (opens, parents) -> 
+
+(parents, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> 
+
+(Sea, seen) -> (seen, so) -> (so, story) -> (story, story) -> (story, tells) -> 
+
+(tells, that) -> (that, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> 
+
+(unluckiness, unlucky) -> (unlucky, with) -> (with, with) -> (with, without) -> (without, worst) -> 
+
+(worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is experienced
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, by) -> (by, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, forbidden) -> 
+
+(forbidden, form) -> (form, gone) -> (gone, has) -> (has, has) -> (has, having) -> 
+
+(having, He) -> (He, him) -> (him, his) -> (his, his) -> (his, instead) -> 
+
+(instead, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, now) -> (now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> 
+
+(opens, parents) -> (parents, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Sea) -> (Sea, seen) -> (seen, so) -> (so, story) -> (story, story) -> 
+
+(story, tells) -> (tells, that) -> (that, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, to) -> (to, to) -> (to, told) -> 
+
+(told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> (with, with) -> (with, without) -> 
+
+(without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is unlucky
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, by) -> (by, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, forbidden) -> 
+
+(forbidden, form) -> (form, gone) -> (gone, has) -> (has, has) -> (has, having) -> 
+
+(having, He) -> (He, him) -> (him, his) -> (his, his) -> (his, instead) -> 
+
+(instead, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, now) -> (now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> 
+
+(opens, parents) -> (parents, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Sea) -> (Sea, seen) -> (seen, so) -> (so, story) -> (story, story) -> 
+
+(story, tells) -> (tells, that) -> (that, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, to) -> (to, to) -> (to, told) -> 
+
+(told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> (with, with) -> (with, with) -> 
+
+(with, without) -> (without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is story
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, by) -> (by, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, forbidden) -> 
+
+(forbidden, form) -> (form, gone) -> (gone, has) -> (has, has) -> (has, having) -> 
+
+(having, He) -> (He, him) -> (him, his) -> (his, his) -> (his, instead) -> 
+
+(instead, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, now) -> (now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> 
+
+(opens, parents) -> (parents, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Sea) -> (Sea, seen) -> (seen, so) -> (so, story) -> (story, story) -> 
+
+(story, successful) -> (successful, tells) -> (tells, that) -> (that, the) -> (the, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, to) -> (to, to) -> 
+
+(to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> (with, with) -> 
+
+(with, with) -> (with, without) -> (without, worst) -> (worst, young) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is fisherman
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, by) -> (by, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> 
+
+(fishermen, forbidden) -> (forbidden, form) -> (form, gone) -> (gone, has) -> (has, has) -> 
+
+(has, having) -> (having, He) -> (He, him) -> (him, his) -> (his, his) -> 
+
+(his, instead) -> (instead, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> 
+
+(Manolin, marlin) -> (marlin, now) -> (now, of) -> (of, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, parents) -> (parents, sail) -> (sail, salao) -> (salao, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> (seen, so) -> (so, story) -> 
+
+(story, story) -> (story, successful) -> (successful, tells) -> (tells, that) -> (that, the) -> 
+
+(the, The) -> (The, the) -> (the, the) -> (the, The) -> (The, to) -> 
+
+(to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, with) -> 
+
+(with, with) -> (with, with) -> (with, without) -> (without, worst) -> (worst, young) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is that
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, by) -> (by, catching) -> (catching, days) -> 
+
+(days, experienced) -> (experienced, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> 
+
+(fishermen, forbidden) -> (forbidden, form) -> (form, gone) -> (gone, has) -> (has, has) -> 
+
+(has, having) -> (having, He) -> (He, him) -> (him, his) -> (his, his) -> 
+
+(his, instead) -> (instead, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> 
+
+(Manolin, marlin) -> (marlin, now) -> (now, of) -> (of, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, parents) -> (parents, sail) -> (sail, salao) -> (salao, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> (seen, so) -> (so, story) -> 
+
+(story, story) -> (story, successful) -> (successful, tells) -> (tells, that) -> (that, The) -> 
+
+(The, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> 
+
+(unlucky, with) -> (with, with) -> (with, with) -> (with, without) -> (without, worst) -> 
+
+(worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is between
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> 
+
+(catching, days) -> (days, experienced) -> (experienced, fish) -> (fish, fish) -> (fish, fisherman) -> 
+
+(fisherman, fishermen) -> (fishermen, forbidden) -> (forbidden, form) -> (form, gone) -> (gone, has) -> 
+
+(has, has) -> (has, having) -> (having, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, instead) -> (instead, is) -> (is, large) -> (large, Man) -> 
+
+(Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> (now, of) -> (of, of) -> 
+
+(of, Old) -> (Old, opens) -> (opens, parents) -> (parents, sail) -> (sail, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> (seen, so) -> 
+
+(so, story) -> (story, story) -> (story, successful) -> (successful, tells) -> (tells, that) -> 
+
+(that, The) -> (The, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> 
+
+(unluckiness, unlucky) -> (unlucky, with) -> (with, with) -> (with, with) -> (with, without) -> 
+
+(without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is unlucky
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> 
+
+(catching, days) -> (days, experienced) -> (experienced, fish) -> (fish, fish) -> (fish, fisherman) -> 
+
+(fisherman, fishermen) -> (fishermen, forbidden) -> (forbidden, form) -> (form, gone) -> (gone, has) -> 
+
+(has, has) -> (has, having) -> (having, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, instead) -> (instead, is) -> (is, large) -> (large, Man) -> 
+
+(Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> (now, of) -> (of, of) -> 
+
+(of, Old) -> (Old, opens) -> (opens, parents) -> (parents, sail) -> (sail, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Sea) -> (Sea, seen) -> (seen, so) -> 
+
+(so, story) -> (story, story) -> (story, successful) -> (successful, tells) -> (tells, that) -> 
+
+(that, The) -> (The, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> 
+
+(unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> (with, with) -> (with, with) -> 
+
+(with, without) -> (without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is Santiago
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> 
+
+(catching, days) -> (days, experienced) -> (experienced, fish) -> (fish, fish) -> (fish, fisherman) -> 
+
+(fisherman, fishermen) -> (fishermen, forbidden) -> (forbidden, form) -> (form, gone) -> (gone, has) -> 
+
+(has, has) -> (has, having) -> (having, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, instead) -> (instead, is) -> (is, large) -> (large, Man) -> 
+
+(Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> (now, of) -> (of, of) -> 
+
+(of, Old) -> (Old, opens) -> (opens, parents) -> (parents, sail) -> (sail, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> 
+
+(seen, so) -> (so, story) -> (story, story) -> (story, successful) -> (successful, tells) -> 
+
+(tells, that) -> (that, The) -> (The, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, to) -> (to, to) -> (to, told) -> 
+
+(told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> (with, with) -> 
+
+(with, with) -> (with, without) -> (without, worst) -> (worst, young) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is seen
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> 
+
+(catching, days) -> (days, experienced) -> (experienced, fish) -> (fish, fish) -> (fish, fisherman) -> 
+
+(fisherman, fishermen) -> (fishermen, forbidden) -> (forbidden, form) -> (form, gone) -> (gone, has) -> 
+
+(has, has) -> (has, having) -> (having, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, instead) -> (instead, is) -> (is, large) -> (large, Man) -> 
+
+(Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> (now, of) -> (of, of) -> 
+
+(of, Old) -> (Old, opens) -> (opens, parents) -> (parents, sail) -> (sail, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> 
+
+(seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> (story, successful) -> 
+
+(successful, tells) -> (tells, that) -> (that, The) -> (The, the) -> (the, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, to) -> (to, to) -> 
+
+(to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> 
+
+(with, with) -> (with, with) -> (with, without) -> (without, worst) -> (worst, young) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is days
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> 
+
+(catching, days) -> (days, each) -> (each, experienced) -> (experienced, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, forbidden) -> (forbidden, form) -> (form, gone) -> 
+
+(gone, has) -> (has, has) -> (has, having) -> (having, He) -> (He, him) -> 
+
+(him, his) -> (his, his) -> (his, instead) -> (instead, is) -> (is, large) -> 
+
+(large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, now) -> (now, of) -> 
+
+(of, of) -> (of, Old) -> (Old, opens) -> (opens, parents) -> (parents, sail) -> 
+
+(sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> 
+
+(Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> 
+
+(story, successful) -> (successful, tells) -> (tells, that) -> (that, The) -> (The, the) -> 
+
+(the, The) -> (The, the) -> (the, the) -> (the, The) -> (The, to) -> 
+
+(to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> 
+
+(visits, with) -> (with, with) -> (with, with) -> (with, without) -> (without, worst) -> 
+
+(worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is marlin
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> 
+
+(catching, days) -> (days, each) -> (each, experienced) -> (experienced, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, forbidden) -> (forbidden, form) -> (form, gone) -> 
+
+(gone, has) -> (has, has) -> (has, having) -> (having, He) -> (He, him) -> 
+
+(him, his) -> (his, his) -> (his, instead) -> (instead, is) -> (is, large) -> 
+
+(large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, night) -> (night, now) -> 
+
+(now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> (opens, parents) -> 
+
+(parents, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> 
+
+(Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> 
+
+(story, story) -> (story, successful) -> (successful, tells) -> (tells, that) -> (that, The) -> 
+
+(The, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> 
+
+(unlucky, visits) -> (visits, with) -> (with, with) -> (with, with) -> (with, without) -> 
+
+(without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is has
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> 
+
+(catching, days) -> (days, each) -> (each, experienced) -> (experienced, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, forbidden) -> (forbidden, form) -> (form, gone) -> 
+
+(gone, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> (having, He) -> 
+
+(He, him) -> (him, his) -> (his, his) -> (his, instead) -> (instead, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, night) -> 
+
+(night, now) -> (now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> 
+
+(opens, parents) -> (parents, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> 
+
+(so, story) -> (story, story) -> (story, successful) -> (successful, tells) -> (tells, that) -> 
+
+(that, The) -> (The, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> 
+
+(unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> (with, with) -> (with, with) -> 
+
+(with, without) -> (without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is him
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> 
+
+(catching, days) -> (days, each) -> (each, experienced) -> (experienced, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, forbidden) -> (forbidden, form) -> (form, gone) -> 
+
+(gone, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> (having, He) -> 
+
+(He, him) -> (him, his) -> (his, his) -> (his, his) -> (his, instead) -> 
+
+(instead, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, night) -> (night, now) -> (now, of) -> (of, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, parents) -> (parents, sail) -> (sail, salao) -> (salao, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> 
+
+(shack, so) -> (so, story) -> (story, story) -> (story, successful) -> (successful, tells) -> 
+
+(tells, that) -> (that, The) -> (The, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, to) -> (to, to) -> (to, told) -> 
+
+(told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> (with, with) -> 
+
+(with, with) -> (with, without) -> (without, worst) -> (worst, young) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is fishermen
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> 
+
+(catching, days) -> (days, each) -> (each, experienced) -> (experienced, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, forbidden) -> (forbidden, form) -> 
+
+(form, gone) -> (gone, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> 
+
+(having, He) -> (He, him) -> (him, his) -> (his, his) -> (his, his) -> 
+
+(his, instead) -> (instead, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> 
+
+(Manolin, marlin) -> (marlin, night) -> (night, now) -> (now, of) -> (of, of) -> 
+
+(of, Old) -> (Old, opens) -> (opens, parents) -> (parents, sail) -> (sail, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> 
+
+(seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> (story, successful) -> 
+
+(successful, tells) -> (tells, that) -> (that, The) -> (The, the) -> (the, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, to) -> (to, to) -> 
+
+(to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> 
+
+(with, with) -> (with, with) -> (with, without) -> (without, worst) -> (worst, young) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is form
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> 
+
+(catching, days) -> (days, each) -> (each, experienced) -> (experienced, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, forbidden) -> (forbidden, form) -> 
+
+(form, gear) -> (gear, gone) -> (gone, has) -> (has, has) -> (has, hauling) -> 
+
+(hauling, having) -> (having, He) -> (He, him) -> (him, his) -> (his, his) -> 
+
+(his, his) -> (his, instead) -> (instead, is) -> (is, large) -> (large, Man) -> 
+
+(Man, Manolin) -> (Manolin, marlin) -> (marlin, night) -> (night, now) -> (now, of) -> 
+
+(of, of) -> (of, Old) -> (Old, opens) -> (opens, parents) -> (parents, sail) -> 
+
+(sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> 
+
+(Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> 
+
+(story, successful) -> (successful, tells) -> (tells, that) -> (that, The) -> (The, the) -> 
+
+(the, The) -> (The, the) -> (the, the) -> (the, The) -> (The, to) -> 
+
+(to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> 
+
+(visits, with) -> (with, with) -> (with, with) -> (with, without) -> (without, worst) -> 
+
+(worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is parents
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> 
+
+(catching, days) -> (days, each) -> (each, experienced) -> (experienced, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, forbidden) -> (forbidden, form) -> 
+
+(form, gear) -> (gear, gone) -> (gone, has) -> (has, has) -> (has, hauling) -> 
+
+(hauling, having) -> (having, He) -> (He, him) -> (him, his) -> (his, his) -> 
+
+(his, his) -> (his, instead) -> (instead, is) -> (is, large) -> (large, Man) -> 
+
+(Man, Manolin) -> (Manolin, marlin) -> (marlin, night) -> (night, now) -> (now, of) -> 
+
+(of, of) -> (of, Old) -> (Old, opens) -> (opens, parents) -> (parents, preparing) -> 
+
+(preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> 
+
+(Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> 
+
+(story, story) -> (story, successful) -> (successful, tells) -> (tells, that) -> (that, The) -> 
+
+(The, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> 
+
+(unlucky, visits) -> (visits, with) -> (with, with) -> (with, with) -> (with, without) -> 
+
+(without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is fishing
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> 
+
+(catching, days) -> (days, each) -> (each, experienced) -> (experienced, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> 
+
+(forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, has) -> (has, has) -> 
+
+(has, hauling) -> (hauling, having) -> (having, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, his) -> (his, instead) -> (instead, is) -> (is, large) -> 
+
+(large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, night) -> (night, now) -> 
+
+(now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> (opens, parents) -> 
+
+(parents, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> 
+
+(so, story) -> (story, story) -> (story, successful) -> (successful, tells) -> (tells, that) -> 
+
+(that, The) -> (The, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> 
+
+(unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> (with, with) -> (with, with) -> 
+
+(with, without) -> (without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is successful
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, aging) -> 
+
+(aging, an) -> (an, and) -> (and, and) -> (and, and) -> (and, and) -> 
+
+(and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> (been, been) -> 
+
+(been, being) -> (being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> 
+
+(catching, days) -> (days, each) -> (each, experienced) -> (experienced, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> 
+
+(forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, has) -> (has, has) -> 
+
+(has, hauling) -> (hauling, having) -> (having, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, his) -> (his, instead) -> (instead, is) -> (is, large) -> 
+
+(large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, night) -> (night, now) -> 
+
+(now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> (opens, parents) -> 
+
+(parents, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> 
+
+(so, story) -> (story, story) -> (story, successful) -> (successful, talking) -> (talking, tells) -> 
+
+(tells, that) -> (that, The) -> (The, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, to) -> (to, to) -> (to, told) -> 
+
+(told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> (with, with) -> 
+
+(with, with) -> (with, without) -> (without, worst) -> (worst, young) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is a
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, an) -> (an, and) -> (and, and) -> (and, and) -> 
+
+(and, and) -> (and, apprentice) -> (apprentice, as) -> (as, battle) -> (battle, been) -> 
+
+(been, been) -> (been, being) -> (being, between) -> (between, boy) -> (boy, by) -> 
+
+(by, catching) -> (catching, days) -> (days, each) -> (each, experienced) -> (experienced, fish) -> 
+
+(fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> 
+
+(food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, has) -> 
+
+(has, has) -> (has, hauling) -> (hauling, having) -> (having, He) -> (He, him) -> 
+
+(him, his) -> (his, his) -> (his, his) -> (his, instead) -> (instead, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, night) -> 
+
+(night, now) -> (now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> 
+
+(opens, parents) -> (parents, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> 
+
+(shack, so) -> (so, story) -> (story, story) -> (story, successful) -> (successful, talking) -> 
+
+(talking, tells) -> (tells, that) -> (that, The) -> (The, the) -> (the, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, to) -> (to, to) -> 
+
+(to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> 
+
+(with, with) -> (with, with) -> (with, without) -> (without, worst) -> (worst, young) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is aging
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> (as, battle) -> 
+
+(battle, been) -> (been, been) -> (been, being) -> (being, between) -> (between, boy) -> 
+
+(boy, by) -> (by, catching) -> (catching, days) -> (days, each) -> (each, experienced) -> 
+
+(experienced, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> 
+
+(fishing, food) -> (food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> 
+
+(gone, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> (having, He) -> 
+
+(He, him) -> (him, his) -> (his, his) -> (his, his) -> (his, instead) -> 
+
+(instead, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, night) -> (night, now) -> (now, of) -> (of, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, parents) -> (parents, preparing) -> (preparing, sail) -> (sail, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> 
+
+(seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> (story, successful) -> 
+
+(successful, talking) -> (talking, tells) -> (tells, that) -> (that, The) -> (The, the) -> 
+
+(the, The) -> (The, the) -> (the, the) -> (the, The) -> (The, to) -> 
+
+(to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> 
+
+(visits, with) -> (with, with) -> (with, with) -> (with, without) -> (without, worst) -> 
+
+(worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is as
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> (as, baseball) -> 
+
+(baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> (being, between) -> 
+
+(between, boy) -> (boy, by) -> (by, catching) -> (catching, days) -> (days, each) -> 
+
+(each, experienced) -> (experienced, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> 
+
+(fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> (forbidden, form) -> (form, gear) -> 
+
+(gear, gone) -> (gone, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> 
+
+(having, He) -> (He, him) -> (him, his) -> (his, his) -> (his, his) -> 
+
+(his, instead) -> (instead, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> 
+
+(Manolin, marlin) -> (marlin, night) -> (night, now) -> (now, of) -> (of, of) -> 
+
+(of, Old) -> (Old, opens) -> (opens, parents) -> (parents, preparing) -> (preparing, sail) -> 
+
+(sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> 
+
+(Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> 
+
+(story, successful) -> (successful, talking) -> (talking, tells) -> (tells, that) -> (that, The) -> 
+
+(The, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> 
+
+(unlucky, visits) -> (visits, with) -> (with, with) -> (with, with) -> (with, without) -> 
+
+(without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is an
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, days) -> 
+
+(days, each) -> (each, experienced) -> (experienced, fish) -> (fish, fish) -> (fish, fisherman) -> 
+
+(fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> (forbidden, form) -> 
+
+(form, gear) -> (gear, gone) -> (gone, has) -> (has, has) -> (has, hauling) -> 
+
+(hauling, having) -> (having, He) -> (He, him) -> (him, his) -> (his, his) -> 
+
+(his, his) -> (his, instead) -> (instead, is) -> (is, large) -> (large, Man) -> 
+
+(Man, Manolin) -> (Manolin, marlin) -> (marlin, night) -> (night, now) -> (now, of) -> 
+
+(of, of) -> (of, Old) -> (Old, opens) -> (opens, parents) -> (parents, preparing) -> 
+
+(preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> 
+
+(Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> 
+
+(story, story) -> (story, successful) -> (successful, talking) -> (talking, tells) -> (tells, that) -> 
+
+(that, The) -> (The, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> 
+
+(unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> (with, with) -> (with, with) -> 
+
+(with, without) -> (without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is him
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, days) -> 
+
+(days, each) -> (each, experienced) -> (experienced, fish) -> (fish, fish) -> (fish, fisherman) -> 
+
+(fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> (forbidden, form) -> 
+
+(form, gear) -> (gear, gone) -> (gone, has) -> (has, has) -> (has, hauling) -> 
+
+(hauling, having) -> (having, He) -> (He, him) -> (him, his) -> (his, his) -> 
+
+(his, his) -> (his, his) -> (his, instead) -> (instead, is) -> (is, large) -> 
+
+(large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, night) -> (night, now) -> 
+
+(now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> (opens, parents) -> 
+
+(parents, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> 
+
+(so, story) -> (story, story) -> (story, successful) -> (successful, talking) -> (talking, tells) -> 
+
+(tells, that) -> (that, The) -> (The, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, to) -> (to, to) -> (to, told) -> 
+
+(told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> (with, with) -> 
+
+(with, with) -> (with, without) -> (without, worst) -> (worst, young) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is experienced
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, days) -> 
+
+(days, each) -> (each, experienced) -> (experienced, favorite) -> (favorite, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> 
+
+(forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, has) -> (has, has) -> 
+
+(has, hauling) -> (hauling, having) -> (having, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, his) -> (his, his) -> (his, instead) -> (instead, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, night) -> 
+
+(night, now) -> (now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> 
+
+(opens, parents) -> (parents, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> 
+
+(shack, so) -> (so, story) -> (story, story) -> (story, successful) -> (successful, talking) -> 
+
+(talking, tells) -> (tells, that) -> (that, The) -> (The, the) -> (the, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, to) -> (to, to) -> 
+
+(to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> 
+
+(with, with) -> (with, with) -> (with, without) -> (without, worst) -> (worst, young) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is parents
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, days) -> 
+
+(days, each) -> (each, experienced) -> (experienced, favorite) -> (favorite, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> 
+
+(forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, has) -> (has, has) -> 
+
+(has, hauling) -> (hauling, having) -> (having, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, his) -> (his, his) -> (his, instead) -> (instead, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, night) -> 
+
+(night, now) -> (now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> 
+
+(opens, parents) -> (parents, player) -> (player, preparing) -> (preparing, sail) -> (sail, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> 
+
+(seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> (story, successful) -> 
+
+(successful, talking) -> (talking, tells) -> (tells, that) -> (that, The) -> (The, the) -> 
+
+(the, The) -> (The, the) -> (the, the) -> (the, The) -> (The, to) -> 
+
+(to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> 
+
+(visits, with) -> (with, with) -> (with, with) -> (with, without) -> (without, worst) -> 
+
+(worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is salao
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, days) -> 
+
+(days, each) -> (each, experienced) -> (experienced, favorite) -> (favorite, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> 
+
+(forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, has) -> (has, has) -> 
+
+(has, hauling) -> (hauling, having) -> (having, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, his) -> (his, his) -> (his, instead) -> (instead, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, night) -> 
+
+(night, now) -> (now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> 
+
+(opens, parents) -> (parents, player) -> (player, preparing) -> (preparing, sail) -> (sail, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> 
+
+(Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> 
+
+(story, successful) -> (successful, talking) -> (talking, tells) -> (tells, that) -> (that, The) -> 
+
+(The, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> 
+
+(unlucky, visits) -> (visits, with) -> (with, with) -> (with, with) -> (with, without) -> 
+
+(without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is talking
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, days) -> 
+
+(days, each) -> (each, experienced) -> (experienced, favorite) -> (favorite, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> 
+
+(forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, has) -> (has, has) -> 
+
+(has, hauling) -> (hauling, having) -> (having, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, his) -> (his, his) -> (his, instead) -> (instead, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, marlin) -> (marlin, night) -> 
+
+(night, now) -> (now, of) -> (of, of) -> (of, Old) -> (Old, opens) -> 
+
+(opens, parents) -> (parents, player) -> (player, preparing) -> (preparing, sail) -> (sail, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> 
+
+(Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> 
+
+(story, successful) -> (successful, talking) -> (talking, tells) -> (tells, tells) -> (tells, that) -> 
+
+(that, The) -> (The, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> 
+
+(unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> (with, with) -> (with, with) -> 
+
+(with, without) -> (without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is Man
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, days) -> 
+
+(days, each) -> (each, experienced) -> (experienced, favorite) -> (favorite, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> 
+
+(forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, has) -> (has, has) -> 
+
+(has, hauling) -> (hauling, having) -> (having, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, his) -> (his, his) -> (his, instead) -> (instead, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, night) -> (night, now) -> (now, of) -> (of, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, parents) -> (parents, player) -> (player, preparing) -> (preparing, sail) -> 
+
+(sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> 
+
+(Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> 
+
+(story, story) -> (story, successful) -> (successful, talking) -> (talking, tells) -> (tells, tells) -> 
+
+(tells, that) -> (that, The) -> (The, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, to) -> (to, to) -> (to, told) -> 
+
+(told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> (with, with) -> 
+
+(with, with) -> (with, without) -> (without, worst) -> (worst, young) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is tells
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, days) -> 
+
+(days, each) -> (each, experienced) -> (experienced, favorite) -> (favorite, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> 
+
+(forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, has) -> (has, has) -> 
+
+(has, hauling) -> (hauling, having) -> (having, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, his) -> (his, his) -> (his, instead) -> (instead, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, night) -> (night, now) -> (now, of) -> (of, of) -> (of, Old) -> 
+
+(Old, opens) -> (opens, parents) -> (parents, player) -> (player, preparing) -> (preparing, sail) -> 
+
+(sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> 
+
+(Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> 
+
+(story, story) -> (story, successful) -> (successful, talking) -> (talking, tells) -> (tells, tells) -> 
+
+(tells, that) -> (that, that) -> (that, The) -> (The, the) -> (the, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, to) -> (to, to) -> 
+
+(to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> 
+
+(with, with) -> (with, with) -> (with, without) -> (without, worst) -> (worst, young) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is Old
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, days) -> 
+
+(days, each) -> (each, experienced) -> (experienced, favorite) -> (favorite, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> 
+
+(forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, has) -> (has, has) -> 
+
+(has, hauling) -> (hauling, having) -> (having, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, his) -> (his, his) -> (his, instead) -> (instead, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, night) -> (night, now) -> (now, of) -> (of, of) -> (of, Old) -> 
+
+(Old, on) -> (on, opens) -> (opens, parents) -> (parents, player) -> (player, preparing) -> 
+
+(preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> 
+
+(so, story) -> (story, story) -> (story, successful) -> (successful, talking) -> (talking, tells) -> 
+
+(tells, tells) -> (tells, that) -> (that, that) -> (that, The) -> (The, the) -> 
+
+(the, The) -> (The, the) -> (the, the) -> (the, The) -> (The, to) -> 
+
+(to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> 
+
+(visits, with) -> (with, with) -> (with, with) -> (with, without) -> (without, worst) -> 
+
+(worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is that
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, days) -> 
+
+(days, each) -> (each, experienced) -> (experienced, favorite) -> (favorite, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> 
+
+(forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, has) -> (has, has) -> 
+
+(has, hauling) -> (hauling, having) -> (having, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, his) -> (his, his) -> (his, instead) -> (instead, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, night) -> (night, now) -> (now, of) -> (of, of) -> (of, Old) -> 
+
+(Old, on) -> (on, opens) -> (opens, parents) -> (parents, player) -> (player, preparing) -> 
+
+(preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> 
+
+(so, story) -> (story, story) -> (story, successful) -> (successful, talking) -> (talking, tells) -> 
+
+(tells, tells) -> (tells, that) -> (that, that) -> (that, the) -> (the, The) -> 
+
+(The, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> 
+
+(unlucky, visits) -> (visits, with) -> (with, with) -> (with, with) -> (with, without) -> 
+
+(without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is marlin
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, days) -> 
+
+(days, each) -> (each, experienced) -> (experienced, favorite) -> (favorite, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> 
+
+(forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, has) -> (has, has) -> 
+
+(has, hauling) -> (hauling, having) -> (having, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, his) -> (his, his) -> (his, instead) -> (instead, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, next) -> (next, night) -> (night, now) -> (now, of) -> (of, of) -> 
+
+(of, Old) -> (Old, on) -> (on, opens) -> (opens, parents) -> (parents, player) -> 
+
+(player, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> 
+
+(shack, so) -> (so, story) -> (story, story) -> (story, successful) -> (successful, talking) -> 
+
+(talking, tells) -> (tells, tells) -> (tells, that) -> (that, that) -> (that, the) -> 
+
+(the, The) -> (The, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> 
+
+(unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> (with, with) -> (with, with) -> 
+
+(with, without) -> (without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is catching
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, day) -> 
+
+(day, days) -> (days, each) -> (each, experienced) -> (experienced, favorite) -> (favorite, fish) -> 
+
+(fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> 
+
+(food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, has) -> 
+
+(has, has) -> (has, hauling) -> (hauling, having) -> (having, He) -> (He, him) -> 
+
+(him, his) -> (his, his) -> (his, his) -> (his, his) -> (his, instead) -> 
+
+(instead, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> 
+
+(Manolin, marlin) -> (marlin, next) -> (next, night) -> (night, now) -> (now, of) -> 
+
+(of, of) -> (of, Old) -> (Old, on) -> (on, opens) -> (opens, parents) -> 
+
+(parents, player) -> (player, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> 
+
+(seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> (story, successful) -> 
+
+(successful, talking) -> (talking, tells) -> (tells, tells) -> (tells, that) -> (that, that) -> 
+
+(that, the) -> (the, The) -> (The, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, to) -> (to, to) -> (to, told) -> 
+
+(told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> (with, with) -> 
+
+(with, with) -> (with, without) -> (without, worst) -> (worst, young) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is having
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, day) -> 
+
+(day, days) -> (days, each) -> (each, experienced) -> (experienced, favorite) -> (favorite, fish) -> 
+
+(fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> 
+
+(food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, has) -> 
+
+(has, has) -> (has, hauling) -> (hauling, having) -> (having, he) -> (he, He) -> 
+
+(He, him) -> (him, his) -> (his, his) -> (his, his) -> (his, his) -> 
+
+(his, instead) -> (instead, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> 
+
+(Manolin, Manolin) -> (Manolin, marlin) -> (marlin, next) -> (next, night) -> (night, now) -> 
+
+(now, of) -> (of, of) -> (of, Old) -> (Old, on) -> (on, opens) -> 
+
+(opens, parents) -> (parents, player) -> (player, preparing) -> (preparing, sail) -> (sail, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> 
+
+(Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> 
+
+(story, successful) -> (successful, talking) -> (talking, tells) -> (tells, tells) -> (tells, that) -> 
+
+(that, that) -> (that, the) -> (the, The) -> (The, the) -> (the, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, to) -> (to, to) -> 
+
+(to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> (visits, with) -> 
+
+(with, with) -> (with, with) -> (with, without) -> (without, worst) -> (worst, young) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is visits
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, day) -> 
+
+(day, days) -> (days, each) -> (each, experienced) -> (experienced, favorite) -> (favorite, fish) -> 
+
+(fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> 
+
+(food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, has) -> 
+
+(has, has) -> (has, hauling) -> (hauling, having) -> (having, he) -> (he, He) -> 
+
+(He, him) -> (him, his) -> (his, his) -> (his, his) -> (his, his) -> 
+
+(his, instead) -> (instead, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> 
+
+(Manolin, Manolin) -> (Manolin, marlin) -> (marlin, next) -> (next, night) -> (night, now) -> 
+
+(now, of) -> (of, of) -> (of, Old) -> (Old, on) -> (on, opens) -> 
+
+(opens, parents) -> (parents, player) -> (player, preparing) -> (preparing, sail) -> (sail, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> 
+
+(Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> 
+
+(story, successful) -> (successful, talking) -> (talking, tells) -> (tells, tells) -> (tells, that) -> 
+
+(that, that) -> (that, the) -> (the, The) -> (The, the) -> (the, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, to) -> (to, to) -> 
+
+(to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, visits) -> (visits, will) -> 
+
+(will, with) -> (with, with) -> (with, with) -> (with, without) -> (without, worst) -> 
+
+(worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is unlucky
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, day) -> 
+
+(day, days) -> (days, each) -> (each, experienced) -> (experienced, favorite) -> (favorite, fish) -> 
+
+(fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, food) -> 
+
+(food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, has) -> 
+
+(has, has) -> (has, hauling) -> (hauling, having) -> (having, he) -> (he, He) -> 
+
+(He, him) -> (him, his) -> (his, his) -> (his, his) -> (his, his) -> 
+
+(his, instead) -> (instead, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> 
+
+(Manolin, Manolin) -> (Manolin, marlin) -> (marlin, next) -> (next, night) -> (night, now) -> 
+
+(now, of) -> (of, of) -> (of, Old) -> (Old, on) -> (on, opens) -> 
+
+(opens, parents) -> (parents, player) -> (player, preparing) -> (preparing, sail) -> (sail, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> 
+
+(Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> 
+
+(story, successful) -> (successful, talking) -> (talking, tells) -> (tells, tells) -> (tells, that) -> 
+
+(that, that) -> (that, the) -> (the, The) -> (The, the) -> (the, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, to) -> (to, to) -> 
+
+(to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, venture) -> (venture, visits) -> 
+
+(visits, will) -> (will, with) -> (with, with) -> (with, with) -> (with, without) -> 
+
+(without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is experienced
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, day) -> 
+
+(day, days) -> (days, each) -> (each, experienced) -> (experienced, far) -> (far, favorite) -> 
+
+(favorite, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> 
+
+(fishing, food) -> (food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> 
+
+(gone, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> (having, he) -> 
+
+(he, He) -> (He, him) -> (him, his) -> (his, his) -> (his, his) -> 
+
+(his, his) -> (his, instead) -> (instead, is) -> (is, large) -> (large, Man) -> 
+
+(Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> (marlin, next) -> (next, night) -> 
+
+(night, now) -> (now, of) -> (of, of) -> (of, Old) -> (Old, on) -> 
+
+(on, opens) -> (opens, parents) -> (parents, player) -> (player, preparing) -> (preparing, sail) -> 
+
+(sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> 
+
+(Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> 
+
+(story, story) -> (story, successful) -> (successful, talking) -> (talking, tells) -> (tells, tells) -> 
+
+(tells, that) -> (that, that) -> (that, the) -> (the, The) -> (The, the) -> 
+
+(the, The) -> (The, the) -> (the, the) -> (the, The) -> (The, to) -> 
+
+(to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, venture) -> 
+
+(venture, visits) -> (visits, will) -> (will, with) -> (with, with) -> (with, with) -> 
+
+(with, without) -> (without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is opens
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, day) -> 
+
+(day, days) -> (days, each) -> (each, experienced) -> (experienced, far) -> (far, favorite) -> 
+
+(favorite, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> 
+
+(fishing, food) -> (food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> 
+
+(gone, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> (having, he) -> 
+
+(he, He) -> (He, him) -> (him, his) -> (his, his) -> (his, his) -> 
+
+(his, his) -> (his, instead) -> (instead, is) -> (is, large) -> (large, Man) -> 
+
+(Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> (marlin, next) -> (next, night) -> 
+
+(night, now) -> (now, of) -> (of, of) -> (of, Old) -> (Old, on) -> 
+
+(on, opens) -> (opens, out) -> (out, parents) -> (parents, player) -> (player, preparing) -> 
+
+(preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> 
+
+(so, story) -> (story, story) -> (story, successful) -> (successful, talking) -> (talking, tells) -> 
+
+(tells, tells) -> (tells, that) -> (that, that) -> (that, the) -> (the, The) -> 
+
+(The, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> 
+
+(unlucky, venture) -> (venture, visits) -> (visits, will) -> (will, with) -> (with, with) -> 
+
+(with, with) -> (with, without) -> (without, worst) -> (worst, young) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is instead
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, day) -> 
+
+(day, days) -> (days, each) -> (each, experienced) -> (experienced, far) -> (far, favorite) -> 
+
+(favorite, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> 
+
+(fishing, food) -> (food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> 
+
+(gone, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> (having, he) -> 
+
+(he, He) -> (He, him) -> (him, his) -> (his, his) -> (his, his) -> 
+
+(his, his) -> (his, instead) -> (instead, into) -> (into, is) -> (is, large) -> 
+
+(large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> (marlin, next) -> 
+
+(next, night) -> (night, now) -> (now, of) -> (of, of) -> (of, Old) -> 
+
+(Old, on) -> (on, opens) -> (opens, out) -> (out, parents) -> (parents, player) -> 
+
+(player, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> 
+
+(shack, so) -> (so, story) -> (story, story) -> (story, successful) -> (successful, talking) -> 
+
+(talking, tells) -> (tells, tells) -> (tells, that) -> (that, that) -> (that, the) -> 
+
+(the, The) -> (The, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> 
+
+(unluckiness, unlucky) -> (unlucky, venture) -> (venture, visits) -> (visits, will) -> (will, with) -> 
+
+(with, with) -> (with, with) -> (with, without) -> (without, worst) -> (worst, young) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is that
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, day) -> 
+
+(day, days) -> (days, each) -> (each, experienced) -> (experienced, far) -> (far, favorite) -> 
+
+(favorite, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> 
+
+(fishing, food) -> (food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> 
+
+(gone, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> (having, he) -> 
+
+(he, He) -> (He, him) -> (him, his) -> (his, his) -> (his, his) -> 
+
+(his, his) -> (his, instead) -> (instead, into) -> (into, is) -> (is, large) -> 
+
+(large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> (marlin, next) -> 
+
+(next, night) -> (night, now) -> (now, of) -> (of, of) -> (of, Old) -> 
+
+(Old, on) -> (on, opens) -> (opens, out) -> (out, parents) -> (parents, player) -> 
+
+(player, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> 
+
+(shack, so) -> (so, story) -> (story, story) -> (story, successful) -> (successful, talking) -> 
+
+(talking, tells) -> (tells, tells) -> (tells, that) -> (that, that) -> (that, the) -> 
+
+(the, the) -> (the, The) -> (The, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, to) -> (to, to) -> (to, told) -> 
+
+(told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, venture) -> (venture, visits) -> (visits, will) -> 
+
+(will, with) -> (with, with) -> (with, with) -> (with, without) -> (without, worst) -> 
+
+(worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is gone
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, day) -> 
+
+(day, days) -> (days, each) -> (each, experienced) -> (experienced, far) -> (far, favorite) -> 
+
+(favorite, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> 
+
+(fishing, food) -> (food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> 
+
+(gone, Gulf) -> (Gulf, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> 
+
+(having, he) -> (he, He) -> (He, him) -> (him, his) -> (his, his) -> 
+
+(his, his) -> (his, his) -> (his, instead) -> (instead, into) -> (into, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, next) -> (next, night) -> (night, now) -> (now, of) -> (of, of) -> 
+
+(of, Old) -> (Old, on) -> (on, opens) -> (opens, out) -> (out, parents) -> 
+
+(parents, player) -> (player, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> 
+
+(seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> (story, successful) -> 
+
+(successful, talking) -> (talking, tells) -> (tells, tells) -> (tells, that) -> (that, that) -> 
+
+(that, the) -> (the, the) -> (the, The) -> (The, the) -> (the, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, to) -> (to, to) -> 
+
+(to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, venture) -> (venture, visits) -> 
+
+(visits, will) -> (will, with) -> (with, with) -> (with, with) -> (with, without) -> 
+
+(without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is story
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, day) -> 
+
+(day, days) -> (days, each) -> (each, experienced) -> (experienced, far) -> (far, favorite) -> 
+
+(favorite, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> 
+
+(fishing, food) -> (food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> 
+
+(gone, Gulf) -> (Gulf, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> 
+
+(having, he) -> (he, He) -> (He, him) -> (him, his) -> (his, his) -> 
+
+(his, his) -> (his, his) -> (his, instead) -> (instead, into) -> (into, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, next) -> (next, night) -> (night, now) -> (now, of) -> (of, of) -> 
+
+(of, Old) -> (Old, on) -> (on, opens) -> (opens, out) -> (out, parents) -> 
+
+(parents, player) -> (player, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> 
+
+(seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> (story, Stream) -> 
+
+(Stream, successful) -> (successful, talking) -> (talking, tells) -> (tells, tells) -> (tells, that) -> 
+
+(that, that) -> (that, the) -> (the, the) -> (the, The) -> (The, the) -> 
+
+(the, The) -> (The, the) -> (the, the) -> (the, The) -> (The, to) -> 
+
+(to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, venture) -> 
+
+(venture, visits) -> (visits, will) -> (will, with) -> (with, with) -> (with, with) -> 
+
+(with, without) -> (without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is night
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, day) -> 
+
+(day, days) -> (days, each) -> (each, experienced) -> (experienced, far) -> (far, favorite) -> 
+
+(favorite, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> 
+
+(fishing, food) -> (food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> 
+
+(gone, Gulf) -> (Gulf, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> 
+
+(having, he) -> (he, He) -> (He, him) -> (him, his) -> (his, his) -> 
+
+(his, his) -> (his, his) -> (his, instead) -> (instead, into) -> (into, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, next) -> (next, night) -> (night, north) -> (north, now) -> (now, of) -> 
+
+(of, of) -> (of, Old) -> (Old, on) -> (on, opens) -> (opens, out) -> 
+
+(out, parents) -> (parents, player) -> (player, preparing) -> (preparing, sail) -> (sail, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> 
+
+(Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> 
+
+(story, Stream) -> (Stream, successful) -> (successful, talking) -> (talking, tells) -> (tells, tells) -> 
+
+(tells, that) -> (that, that) -> (that, the) -> (the, the) -> (the, The) -> 
+
+(The, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> 
+
+(unlucky, venture) -> (venture, visits) -> (visits, will) -> (will, with) -> (with, with) -> 
+
+(with, with) -> (with, without) -> (without, worst) -> (worst, young) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is now
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, day) -> 
+
+(day, days) -> (days, each) -> (each, experienced) -> (experienced, far) -> (far, favorite) -> 
+
+(favorite, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> 
+
+(fishing, food) -> (food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> 
+
+(gone, Gulf) -> (Gulf, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> 
+
+(having, he) -> (he, He) -> (He, him) -> (him, his) -> (his, his) -> 
+
+(his, his) -> (his, his) -> (his, instead) -> (instead, into) -> (into, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, next) -> (next, night) -> (night, north) -> (north, now) -> (now, of) -> 
+
+(of, of) -> (of, of) -> (of, Old) -> (Old, on) -> (on, opens) -> 
+
+(opens, out) -> (out, parents) -> (parents, player) -> (player, preparing) -> (preparing, sail) -> 
+
+(sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> 
+
+(Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> 
+
+(story, story) -> (story, Stream) -> (Stream, successful) -> (successful, talking) -> (talking, tells) -> 
+
+(tells, tells) -> (tells, that) -> (that, that) -> (that, the) -> (the, the) -> 
+
+(the, The) -> (The, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> 
+
+(unluckiness, unlucky) -> (unlucky, venture) -> (venture, visits) -> (visits, will) -> (will, with) -> 
+
+(with, with) -> (with, with) -> (with, without) -> (without, worst) -> (worst, young) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is catching
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, Cuba) -> 
+
+(Cuba, day) -> (day, days) -> (days, each) -> (each, experienced) -> (experienced, far) -> 
+
+(far, favorite) -> (favorite, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> 
+
+(fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> (forbidden, form) -> (form, gear) -> 
+
+(gear, gone) -> (gone, Gulf) -> (Gulf, has) -> (has, has) -> (has, hauling) -> 
+
+(hauling, having) -> (having, he) -> (he, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, his) -> (his, his) -> (his, instead) -> (instead, into) -> 
+
+(into, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> 
+
+(Manolin, marlin) -> (marlin, next) -> (next, night) -> (night, north) -> (north, now) -> 
+
+(now, of) -> (of, of) -> (of, of) -> (of, Old) -> (Old, on) -> 
+
+(on, opens) -> (opens, out) -> (out, parents) -> (parents, player) -> (player, preparing) -> 
+
+(preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> 
+
+(so, story) -> (story, story) -> (story, Stream) -> (Stream, successful) -> (successful, talking) -> 
+
+(talking, tells) -> (tells, tells) -> (tells, that) -> (that, that) -> (that, the) -> 
+
+(the, the) -> (the, The) -> (The, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, to) -> (to, to) -> (to, told) -> 
+
+(told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, venture) -> (venture, visits) -> (visits, will) -> 
+
+(will, with) -> (with, with) -> (with, with) -> (with, without) -> (without, worst) -> 
+
+(worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is his
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, Cuba) -> 
+
+(Cuba, day) -> (day, days) -> (days, each) -> (each, experienced) -> (experienced, far) -> 
+
+(far, favorite) -> (favorite, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> 
+
+(fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> (forbidden, form) -> (form, gear) -> 
+
+(gear, gone) -> (gone, Gulf) -> (Gulf, has) -> (has, has) -> (has, hauling) -> 
+
+(hauling, having) -> (having, he) -> (he, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, his) -> (his, his) -> (his, in) -> (in, instead) -> 
+
+(instead, into) -> (into, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> 
+
+(Manolin, Manolin) -> (Manolin, marlin) -> (marlin, next) -> (next, night) -> (night, north) -> 
+
+(north, now) -> (now, of) -> (of, of) -> (of, of) -> (of, Old) -> 
+
+(Old, on) -> (on, opens) -> (opens, out) -> (out, parents) -> (parents, player) -> 
+
+(player, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> 
+
+(shack, so) -> (so, story) -> (story, story) -> (story, Stream) -> (Stream, successful) -> 
+
+(successful, talking) -> (talking, tells) -> (tells, tells) -> (tells, that) -> (that, that) -> 
+
+(that, the) -> (the, the) -> (the, The) -> (The, the) -> (the, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, to) -> (to, to) -> 
+
+(to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, venture) -> (venture, visits) -> 
+
+(visits, will) -> (will, with) -> (with, with) -> (with, with) -> (with, without) -> 
+
+(without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is that
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, Cuba) -> 
+
+(Cuba, day) -> (day, days) -> (days, each) -> (each, experienced) -> (experienced, far) -> 
+
+(far, favorite) -> (favorite, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> 
+
+(fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> (forbidden, form) -> (form, gear) -> 
+
+(gear, gone) -> (gone, Gulf) -> (Gulf, has) -> (has, has) -> (has, hauling) -> 
+
+(hauling, having) -> (having, he) -> (he, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, his) -> (his, his) -> (his, in) -> (in, instead) -> 
+
+(instead, into) -> (into, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> 
+
+(Manolin, Manolin) -> (Manolin, marlin) -> (marlin, next) -> (next, night) -> (night, north) -> 
+
+(north, now) -> (now, of) -> (of, of) -> (of, of) -> (of, Old) -> 
+
+(Old, on) -> (on, opens) -> (opens, out) -> (out, parents) -> (parents, player) -> 
+
+(player, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> 
+
+(shack, so) -> (so, story) -> (story, story) -> (story, Stream) -> (Stream, successful) -> 
+
+(successful, talking) -> (talking, tells) -> (tells, tells) -> (tells, that) -> (that, that) -> 
+
+(that, the) -> (the, the) -> (the, the) -> (the, The) -> (The, the) -> 
+
+(the, The) -> (The, the) -> (the, the) -> (the, The) -> (The, to) -> 
+
+(to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, venture) -> 
+
+(venture, visits) -> (visits, will) -> (will, with) -> (with, with) -> (with, with) -> 
+
+(with, without) -> (without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is story
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, Cuba) -> 
+
+(Cuba, day) -> (day, days) -> (days, each) -> (each, experienced) -> (experienced, far) -> 
+
+(far, favorite) -> (favorite, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> 
+
+(fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> (forbidden, form) -> (form, gear) -> 
+
+(gear, gone) -> (gone, Gulf) -> (Gulf, has) -> (has, has) -> (has, hauling) -> 
+
+(hauling, having) -> (having, he) -> (he, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, his) -> (his, his) -> (his, in) -> (in, instead) -> 
+
+(instead, into) -> (into, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> 
+
+(Manolin, Manolin) -> (Manolin, marlin) -> (marlin, next) -> (next, night) -> (night, north) -> 
+
+(north, now) -> (now, of) -> (of, of) -> (of, of) -> (of, Old) -> 
+
+(Old, on) -> (on, opens) -> (opens, out) -> (out, parents) -> (parents, player) -> 
+
+(player, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> 
+
+(shack, so) -> (so, story) -> (story, story) -> (story, Straits) -> (Straits, Stream) -> 
+
+(Stream, successful) -> (successful, talking) -> (talking, tells) -> (tells, tells) -> (tells, that) -> 
+
+(that, that) -> (that, the) -> (the, the) -> (the, the) -> (the, The) -> 
+
+(The, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> 
+
+(unlucky, venture) -> (venture, visits) -> (visits, will) -> (will, with) -> (with, with) -> 
+
+(with, with) -> (with, without) -> (without, worst) -> (worst, young) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is now
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, Cuba) -> 
+
+(Cuba, day) -> (day, days) -> (days, each) -> (each, experienced) -> (experienced, far) -> 
+
+(far, favorite) -> (favorite, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> 
+
+(fishermen, fishing) -> (fishing, food) -> (food, forbidden) -> (forbidden, form) -> (form, gear) -> 
+
+(gear, gone) -> (gone, Gulf) -> (Gulf, has) -> (has, has) -> (has, hauling) -> 
+
+(hauling, having) -> (having, he) -> (he, He) -> (He, him) -> (him, his) -> 
+
+(his, his) -> (his, his) -> (his, his) -> (his, in) -> (in, instead) -> 
+
+(instead, into) -> (into, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> 
+
+(Manolin, Manolin) -> (Manolin, marlin) -> (marlin, next) -> (next, night) -> (night, north) -> 
+
+(north, now) -> (now, of) -> (of, of) -> (of, of) -> (of, of) -> 
+
+(of, Old) -> (Old, on) -> (on, opens) -> (opens, out) -> (out, parents) -> 
+
+(parents, player) -> (player, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> 
+
+(seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> (story, Straits) -> 
+
+(Straits, Stream) -> (Stream, successful) -> (successful, talking) -> (talking, tells) -> (tells, tells) -> 
+
+(tells, that) -> (that, that) -> (that, the) -> (the, the) -> (the, the) -> 
+
+(the, The) -> (The, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> 
+
+(unluckiness, unlucky) -> (unlucky, venture) -> (venture, visits) -> (visits, will) -> (will, with) -> 
+
+(with, with) -> (with, with) -> (with, without) -> (without, worst) -> (worst, young) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is fishing
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, Cuba) -> 
+
+(Cuba, day) -> (day, days) -> (days, each) -> (each, experienced) -> (experienced, far) -> 
+
+(far, favorite) -> (favorite, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> 
+
+(fishermen, fishing) -> (fishing, Florida) -> (Florida, food) -> (food, forbidden) -> (forbidden, form) -> 
+
+(form, gear) -> (gear, gone) -> (gone, Gulf) -> (Gulf, has) -> (has, has) -> 
+
+(has, hauling) -> (hauling, having) -> (having, he) -> (he, He) -> (He, him) -> 
+
+(him, his) -> (his, his) -> (his, his) -> (his, his) -> (his, in) -> 
+
+(in, instead) -> (instead, into) -> (into, is) -> (is, large) -> (large, Man) -> 
+
+(Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> (marlin, next) -> (next, night) -> 
+
+(night, north) -> (north, now) -> (now, of) -> (of, of) -> (of, of) -> 
+
+(of, of) -> (of, Old) -> (Old, on) -> (on, opens) -> (opens, out) -> 
+
+(out, parents) -> (parents, player) -> (player, preparing) -> (preparing, sail) -> (sail, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> 
+
+(Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> 
+
+(story, Straits) -> (Straits, Stream) -> (Stream, successful) -> (successful, talking) -> (talking, tells) -> 
+
+(tells, tells) -> (tells, that) -> (that, that) -> (that, the) -> (the, the) -> 
+
+(the, the) -> (the, The) -> (The, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, to) -> (to, to) -> (to, told) -> 
+
+(told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, venture) -> (venture, visits) -> (visits, will) -> 
+
+(will, with) -> (with, with) -> (with, with) -> (with, without) -> (without, worst) -> 
+
+(worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is The
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, Cuba) -> 
+
+(Cuba, day) -> (day, days) -> (days, each) -> (each, experienced) -> (experienced, far) -> 
+
+(far, favorite) -> (favorite, fish) -> (fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> 
+
+(fishermen, fishing) -> (fishing, Florida) -> (Florida, food) -> (food, forbidden) -> (forbidden, form) -> 
+
+(form, gear) -> (gear, gone) -> (gone, Gulf) -> (Gulf, has) -> (has, has) -> 
+
+(has, hauling) -> (hauling, having) -> (having, he) -> (he, He) -> (He, him) -> 
+
+(him, his) -> (his, his) -> (his, his) -> (his, his) -> (his, in) -> 
+
+(in, instead) -> (instead, into) -> (into, is) -> (is, large) -> (large, Man) -> 
+
+(Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> (marlin, next) -> (next, night) -> 
+
+(night, north) -> (north, now) -> (now, of) -> (of, of) -> (of, of) -> 
+
+(of, of) -> (of, Old) -> (Old, on) -> (on, opens) -> (opens, out) -> 
+
+(out, parents) -> (parents, player) -> (player, preparing) -> (preparing, sail) -> (sail, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> 
+
+(Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> 
+
+(story, Straits) -> (Straits, Stream) -> (Stream, successful) -> (successful, talking) -> (talking, tells) -> 
+
+(tells, tells) -> (tells, that) -> (that, that) -> (that, the) -> (the, the) -> 
+
+(the, the) -> (the, The) -> (The, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, to) -> (to, to) -> (to, to) -> 
+
+(to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, venture) -> (venture, visits) -> 
+
+(visits, will) -> (will, with) -> (with, with) -> (with, with) -> (with, without) -> 
+
+(without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is favorite
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, Cuba) -> 
+
+(Cuba, day) -> (day, days) -> (days, each) -> (each, experienced) -> (experienced, far) -> 
+
+(far, favorite) -> (favorite, fish) -> (fish, fish) -> (fish, fish) -> (fish, fisherman) -> 
+
+(fisherman, fishermen) -> (fishermen, fishing) -> (fishing, Florida) -> (Florida, food) -> (food, forbidden) -> 
+
+(forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, Gulf) -> (Gulf, has) -> 
+
+(has, has) -> (has, hauling) -> (hauling, having) -> (having, he) -> (he, He) -> 
+
+(He, him) -> (him, his) -> (his, his) -> (his, his) -> (his, his) -> 
+
+(his, in) -> (in, instead) -> (instead, into) -> (into, is) -> (is, large) -> 
+
+(large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> (marlin, next) -> 
+
+(next, night) -> (night, north) -> (north, now) -> (now, of) -> (of, of) -> 
+
+(of, of) -> (of, of) -> (of, Old) -> (Old, on) -> (on, opens) -> 
+
+(opens, out) -> (out, parents) -> (parents, player) -> (player, preparing) -> (preparing, sail) -> 
+
+(sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> 
+
+(Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> 
+
+(story, story) -> (story, Straits) -> (Straits, Stream) -> (Stream, successful) -> (successful, talking) -> 
+
+(talking, tells) -> (tells, tells) -> (tells, that) -> (that, that) -> (that, the) -> 
+
+(the, the) -> (the, the) -> (the, The) -> (The, the) -> (the, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, to) -> (to, to) -> 
+
+(to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, venture) -> 
+
+(venture, visits) -> (visits, will) -> (will, with) -> (with, with) -> (with, with) -> 
+
+(with, without) -> (without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is catching
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, confident) -> 
+
+(confident, Cuba) -> (Cuba, day) -> (day, days) -> (days, each) -> (each, experienced) -> 
+
+(experienced, far) -> (far, favorite) -> (favorite, fish) -> (fish, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, Florida) -> (Florida, food) -> 
+
+(food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, Gulf) -> 
+
+(Gulf, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> (having, he) -> 
+
+(he, He) -> (He, him) -> (him, his) -> (his, his) -> (his, his) -> 
+
+(his, his) -> (his, in) -> (in, instead) -> (instead, into) -> (into, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, next) -> (next, night) -> (night, north) -> (north, now) -> (now, of) -> 
+
+(of, of) -> (of, of) -> (of, of) -> (of, Old) -> (Old, on) -> 
+
+(on, opens) -> (opens, out) -> (out, parents) -> (parents, player) -> (player, preparing) -> 
+
+(preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> 
+
+(so, story) -> (story, story) -> (story, Straits) -> (Straits, Stream) -> (Stream, successful) -> 
+
+(successful, talking) -> (talking, tells) -> (tells, tells) -> (tells, that) -> (that, that) -> 
+
+(that, the) -> (the, the) -> (the, the) -> (the, The) -> (The, the) -> 
+
+(the, The) -> (The, the) -> (the, the) -> (the, The) -> (The, to) -> 
+
+(to, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> 
+
+(unlucky, venture) -> (venture, visits) -> (visits, will) -> (will, with) -> (with, with) -> 
+
+(with, with) -> (with, without) -> (without, worst) -> (worst, young) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is tells
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, confident) -> 
+
+(confident, Cuba) -> (Cuba, day) -> (day, days) -> (days, each) -> (each, experienced) -> 
+
+(experienced, far) -> (far, favorite) -> (favorite, fish) -> (fish, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, Florida) -> (Florida, food) -> 
+
+(food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, Gulf) -> 
+
+(Gulf, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> (having, he) -> 
+
+(he, He) -> (He, him) -> (him, his) -> (his, his) -> (his, his) -> 
+
+(his, his) -> (his, in) -> (in, instead) -> (instead, into) -> (into, is) -> 
+
+(is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> 
+
+(marlin, next) -> (next, night) -> (night, north) -> (north, now) -> (now, of) -> 
+
+(of, of) -> (of, of) -> (of, of) -> (of, Old) -> (Old, on) -> 
+
+(on, opens) -> (opens, out) -> (out, parents) -> (parents, player) -> (player, preparing) -> 
+
+(preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> 
+
+(so, story) -> (story, story) -> (story, Straits) -> (Straits, Stream) -> (Stream, successful) -> 
+
+(successful, talking) -> (talking, tells) -> (tells, tells) -> (tells, that) -> (that, that) -> 
+
+(that, that) -> (that, the) -> (the, the) -> (the, the) -> (the, The) -> 
+
+(The, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, to) -> (to, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> 
+
+(unluckiness, unlucky) -> (unlucky, venture) -> (venture, visits) -> (visits, will) -> (will, with) -> 
+
+(with, with) -> (with, with) -> (with, without) -> (without, worst) -> (worst, young) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is him
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, confident) -> 
+
+(confident, Cuba) -> (Cuba, day) -> (day, days) -> (days, each) -> (each, experienced) -> 
+
+(experienced, far) -> (far, favorite) -> (favorite, fish) -> (fish, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, Florida) -> (Florida, food) -> 
+
+(food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, Gulf) -> 
+
+(Gulf, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> (having, he) -> 
+
+(he, He) -> (He, him) -> (him, his) -> (his, his) -> (his, his) -> 
+
+(his, his) -> (his, his) -> (his, in) -> (in, instead) -> (instead, into) -> 
+
+(into, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> 
+
+(Manolin, marlin) -> (marlin, next) -> (next, night) -> (night, north) -> (north, now) -> 
+
+(now, of) -> (of, of) -> (of, of) -> (of, of) -> (of, Old) -> 
+
+(Old, on) -> (on, opens) -> (opens, out) -> (out, parents) -> (parents, player) -> 
+
+(player, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> 
+
+(shack, so) -> (so, story) -> (story, story) -> (story, Straits) -> (Straits, Stream) -> 
+
+(Stream, successful) -> (successful, talking) -> (talking, tells) -> (tells, tells) -> (tells, that) -> 
+
+(that, that) -> (that, that) -> (that, the) -> (the, the) -> (the, the) -> 
+
+(the, The) -> (The, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, to) -> (to, to) -> (to, told) -> 
+
+(told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, venture) -> (venture, visits) -> (visits, will) -> 
+
+(will, with) -> (with, with) -> (with, with) -> (with, without) -> (without, worst) -> 
+
+(worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is unluckiness
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, confident) -> 
+
+(confident, Cuba) -> (Cuba, day) -> (day, days) -> (days, each) -> (each, experienced) -> 
+
+(experienced, far) -> (far, favorite) -> (favorite, fish) -> (fish, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, Florida) -> (Florida, food) -> 
+
+(food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, Gulf) -> 
+
+(Gulf, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> (having, he) -> 
+
+(he, He) -> (He, him) -> (him, his) -> (his, his) -> (his, his) -> 
+
+(his, his) -> (his, his) -> (his, in) -> (in, instead) -> (instead, into) -> 
+
+(into, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> 
+
+(Manolin, marlin) -> (marlin, next) -> (next, night) -> (night, north) -> (north, now) -> 
+
+(now, of) -> (of, of) -> (of, of) -> (of, of) -> (of, Old) -> 
+
+(Old, on) -> (on, opens) -> (opens, out) -> (out, parents) -> (parents, player) -> 
+
+(player, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> 
+
+(shack, so) -> (so, story) -> (story, story) -> (story, Straits) -> (Straits, Stream) -> 
+
+(Stream, successful) -> (successful, talking) -> (talking, tells) -> (tells, tells) -> (tells, that) -> 
+
+(that, that) -> (that, that) -> (that, the) -> (the, the) -> (the, the) -> 
+
+(the, The) -> (The, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, to) -> (to, to) -> (to, told) -> 
+
+(told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, unlucky) -> (unlucky, venture) -> (venture, visits) -> 
+
+(visits, will) -> (will, with) -> (with, with) -> (with, with) -> (with, without) -> 
+
+(without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is Straits
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, confident) -> 
+
+(confident, Cuba) -> (Cuba, day) -> (day, days) -> (days, each) -> (each, experienced) -> 
+
+(experienced, far) -> (far, favorite) -> (favorite, fish) -> (fish, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, Florida) -> (Florida, food) -> 
+
+(food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, Gulf) -> 
+
+(Gulf, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> (having, he) -> 
+
+(he, He) -> (He, him) -> (him, his) -> (his, his) -> (his, his) -> 
+
+(his, his) -> (his, his) -> (his, in) -> (in, instead) -> (instead, into) -> 
+
+(into, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> 
+
+(Manolin, marlin) -> (marlin, next) -> (next, night) -> (night, north) -> (north, now) -> 
+
+(now, of) -> (of, of) -> (of, of) -> (of, of) -> (of, Old) -> 
+
+(Old, on) -> (on, opens) -> (opens, out) -> (out, parents) -> (parents, player) -> 
+
+(player, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> 
+
+(shack, so) -> (so, story) -> (story, story) -> (story, Straits) -> (Straits, streak) -> 
+
+(streak, Stream) -> (Stream, successful) -> (successful, talking) -> (talking, tells) -> (tells, tells) -> 
+
+(tells, that) -> (that, that) -> (that, that) -> (that, the) -> (the, the) -> 
+
+(the, the) -> (the, The) -> (The, the) -> (the, The) -> (The, the) -> 
+
+(the, the) -> (the, The) -> (The, to) -> (to, to) -> (to, to) -> 
+
+(to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, unlucky) -> (unlucky, venture) -> 
+
+(venture, visits) -> (visits, will) -> (will, with) -> (with, with) -> (with, with) -> 
+
+(with, without) -> (without, worst) -> (worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is into
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, confident) -> 
+
+(confident, Cuba) -> (Cuba, day) -> (day, days) -> (days, each) -> (each, experienced) -> 
+
+(experienced, far) -> (far, favorite) -> (favorite, fish) -> (fish, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, Florida) -> (Florida, food) -> 
+
+(food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, Gulf) -> 
+
+(Gulf, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> (having, he) -> 
+
+(he, He) -> (He, him) -> (him, his) -> (his, his) -> (his, his) -> 
+
+(his, his) -> (his, his) -> (his, in) -> (in, instead) -> (instead, into) -> 
+
+(into, is) -> (is, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> 
+
+(Manolin, Manolin) -> (Manolin, marlin) -> (marlin, next) -> (next, night) -> (night, north) -> 
+
+(north, now) -> (now, of) -> (of, of) -> (of, of) -> (of, of) -> 
+
+(of, Old) -> (Old, on) -> (on, opens) -> (opens, out) -> (out, parents) -> 
+
+(parents, player) -> (player, preparing) -> (preparing, sail) -> (sail, salao) -> (salao, Santiago) -> 
+
+(Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> 
+
+(seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> (story, Straits) -> 
+
+(Straits, streak) -> (streak, Stream) -> (Stream, successful) -> (successful, talking) -> (talking, tells) -> 
+
+(tells, tells) -> (tells, that) -> (that, that) -> (that, that) -> (that, the) -> 
+
+(the, the) -> (the, the) -> (the, The) -> (The, the) -> (the, The) -> 
+
+(The, the) -> (the, the) -> (the, The) -> (The, to) -> (to, to) -> 
+
+(to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, unlucky) -> 
+
+(unlucky, venture) -> (venture, visits) -> (visits, will) -> (will, with) -> (with, with) -> 
+
+(with, with) -> (with, without) -> (without, worst) -> (worst, young) -> null
+
+
+
+In listInsert method
+Returns from findSpot where Spot.data is marlin
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, confident) -> 
+
+(confident, Cuba) -> (Cuba, day) -> (day, days) -> (days, each) -> (each, experienced) -> 
+
+(experienced, far) -> (far, favorite) -> (favorite, fish) -> (fish, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, Florida) -> (Florida, food) -> 
+
+(food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, Gulf) -> 
+
+(Gulf, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> (having, he) -> 
+
+(he, He) -> (He, him) -> (him, his) -> (his, his) -> (his, his) -> 
+
+(his, his) -> (his, his) -> (his, in) -> (in, instead) -> (instead, into) -> 
+
+(into, is) -> (is, is) -> (is, large) -> (large, Man) -> (Man, Manolin) -> 
+
+(Manolin, Manolin) -> (Manolin, marlin) -> (marlin, near) -> (near, next) -> (next, night) -> 
+
+(night, north) -> (north, now) -> (now, of) -> (of, of) -> (of, of) -> 
+
+(of, of) -> (of, Old) -> (Old, on) -> (on, opens) -> (opens, out) -> 
+
+(out, parents) -> (parents, player) -> (player, preparing) -> (preparing, sail) -> (sail, salao) -> 
+
+(salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> (Santiagos, Sea) -> 
+
+(Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> (story, story) -> 
+
+(story, Straits) -> (Straits, streak) -> (streak, Stream) -> (Stream, successful) -> (successful, talking) -> 
+
+(talking, tells) -> (tells, tells) -> (tells, that) -> (that, that) -> (that, that) -> 
+
+(that, the) -> (the, the) -> (the, the) -> (the, The) -> (The, the) -> 
+
+(the, The) -> (The, the) -> (the, the) -> (the, The) -> (The, to) -> 
+
+(to, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> (unluckiness, unlucky) -> 
+
+(unlucky, unlucky) -> (unlucky, venture) -> (venture, visits) -> (visits, will) -> (will, with) -> 
+
+(with, with) -> (with, with) -> (with, without) -> (without, worst) -> (worst, young) -> 
+
+null
+
+In listInsert method
+Returns from findSpot where Spot.data is is
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, confident) -> 
+
+(confident, Cuba) -> (Cuba, day) -> (day, days) -> (days, each) -> (each, experienced) -> 
+
+(experienced, far) -> (far, favorite) -> (favorite, fish) -> (fish, fish) -> (fish, fish) -> 
+
+(fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, Florida) -> (Florida, food) -> 
+
+(food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> (gone, Gulf) -> 
+
+(Gulf, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> (having, he) -> 
+
+(he, He) -> (He, him) -> (him, his) -> (his, his) -> (his, his) -> 
+
+(his, his) -> (his, his) -> (his, in) -> (in, instead) -> (instead, into) -> 
+
+(into, is) -> (is, is) -> (is, its) -> (its, large) -> (large, Man) -> 
+
+(Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> (marlin, near) -> (near, next) -> 
+
+(next, night) -> (night, north) -> (north, now) -> (now, of) -> (of, of) -> 
+
+(of, of) -> (of, of) -> (of, Old) -> (Old, on) -> (on, opens) -> 
+
+(opens, out) -> (out, parents) -> (parents, player) -> (player, preparing) -> (preparing, sail) -> 
+
+(sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiagos) -> 
+
+(Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> (so, story) -> 
+
+(story, story) -> (story, Straits) -> (Straits, streak) -> (streak, Stream) -> (Stream, successful) -> 
+
+(successful, talking) -> (talking, tells) -> (tells, tells) -> (tells, that) -> (that, that) -> 
+
+(that, that) -> (that, the) -> (the, the) -> (the, the) -> (the, The) -> 
+
+(The, the) -> (the, The) -> (The, the) -> (the, the) -> (the, The) -> 
+
+(The, to) -> (to, to) -> (to, to) -> (to, told) -> (told, unluckiness) -> 
+
+(unluckiness, unlucky) -> (unlucky, unlucky) -> (unlucky, venture) -> (venture, visits) -> (visits, will) -> 
+
+(will, with) -> (with, with) -> (with, with) -> (with, without) -> (without, worst) -> 
+
+(worst, young) -> null
+
+In listInsert method
+Returns from findSpot where Spot.data is each
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, confident) -> 
+
+(confident, Cuba) -> (Cuba, day) -> (day, days) -> (days, each) -> (each, end) -> 
+
+(end, experienced) -> (experienced, far) -> (far, favorite) -> (favorite, fish) -> (fish, fish) -> 
+
+(fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, Florida) -> 
+
+(Florida, food) -> (food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> 
+
+(gone, Gulf) -> (Gulf, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> 
+
+(having, he) -> (he, He) -> (He, him) -> (him, his) -> (his, his) -> 
+
+(his, his) -> (his, his) -> (his, his) -> (his, in) -> (in, instead) -> 
+
+(instead, into) -> (into, is) -> (is, is) -> (is, its) -> (its, large) -> 
+
+(large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> (marlin, near) -> 
+
+(near, next) -> (next, night) -> (night, north) -> (north, now) -> (now, of) -> 
+
+(of, of) -> (of, of) -> (of, of) -> (of, Old) -> (Old, on) -> 
+
+(on, opens) -> (opens, out) -> (out, parents) -> (parents, player) -> (player, preparing) -> 
+
+(preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> 
+
+(so, story) -> (story, story) -> (story, Straits) -> (Straits, streak) -> (streak, Stream) -> 
+
+(Stream, successful) -> (successful, talking) -> (talking, tells) -> (tells, tells) -> (tells, that) -> 
+
+(that, that) -> (that, that) -> (that, the) -> (the, the) -> (the, the) -> 
+
+(the, The) -> (The, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, to) -> (to, to) -> (to, told) -> 
+
+(told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, unlucky) -> (unlucky, venture) -> (venture, visits) -> 
+
+(visits, will) -> (will, with) -> (with, with) -> (with, with) -> (with, without) -> 
+
+(without, worst) -> (worst, young) -> null
+In findMiddleNode method 
+ walker1's data is a 
+ walker1's data is a 
+ walker1's data is a 
+ walker1's data is about 
+ walker1's data is aging 
+ walker1's data is American 
+ walker1's data is an 
+ walker1's data is and 
+ walker1's data is and 
+ walker1's data is and 
+ walker1's data is and 
+ walker1's data is and 
+ walker1's data is apprentice 
+ walker1's data is as 
+ walker1's data is baseball 
+ walker1's data is battle 
+ walker1's data is been 
+ walker1's data is been 
+ walker1's data is being 
+ walker1's data is between 
+ walker1's data is boy 
+ walker1's data is by 
+ walker1's data is catching 
+ walker1's data is confident 
+ walker1's data is Cuba 
+ walker1's data is day 
+ walker1's data is days 
+ walker1's data is each 
+ walker1's data is end 
+ walker1's data is experienced 
+ walker1's data is far 
+ walker1's data is favorite 
+ walker1's data is fish 
+ walker1's data is fish 
+ walker1's data is fish 
+ walker1's data is fisherman 
+ walker1's data is fishermen 
+ walker1's data is fishing 
+ walker1's data is Florida 
+ walker1's data is food 
+ walker1's data is forbidden 
+ walker1's data is form 
+ walker1's data is gear 
+ walker1's data is gone 
+ walker1's data is Gulf 
+ walker1's data is has 
+ walker1's data is has 
+ walker1's data is hauling 
+ walker1's data is having 
+ walker1's data is he 
+ walker1's data is He 
+ walker1's data is him 
+ walker1's data is his 
+ walker1's data is his 
+ walker1's data is his 
+ walker1's data is his 
+ walker1's data is his 
+ walker1's data is in 
+ walker1's data is instead 
+ walker1's data is into 
+ walker1's data is is 
+ walker1's data is is 
+ walker1's data is its 
+ walker1's data is large 
+ walker1's data is Man 
+ walker1's data is Manolin 
+The middle node is Manolin

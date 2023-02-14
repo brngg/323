@@ -1,0 +1,53 @@
+listHead ->(dummy, 84) -> (84, a) -> (a, a) -> (a, a) -> (a, about) -> 
+
+(about, aging) -> (aging, American) -> (American, an) -> (an, and) -> (and, and) -> 
+
+(and, and) -> (and, and) -> (and, and) -> (and, apprentice) -> (apprentice, as) -> 
+
+(as, baseball) -> (baseball, battle) -> (battle, been) -> (been, been) -> (been, being) -> 
+
+(being, between) -> (between, boy) -> (boy, by) -> (by, catching) -> (catching, confident) -> 
+
+(confident, Cuba) -> (Cuba, day) -> (day, days) -> (days, each) -> (each, end) -> 
+
+(end, experienced) -> (experienced, far) -> (far, favorite) -> (favorite, fish) -> (fish, fish) -> 
+
+(fish, fish) -> (fish, fisherman) -> (fisherman, fishermen) -> (fishermen, fishing) -> (fishing, Florida) -> 
+
+(Florida, food) -> (food, forbidden) -> (forbidden, form) -> (form, gear) -> (gear, gone) -> 
+
+(gone, Gulf) -> (Gulf, has) -> (has, has) -> (has, hauling) -> (hauling, having) -> 
+
+(having, he) -> (he, He) -> (He, him) -> (him, his) -> (his, his) -> 
+
+(his, his) -> (his, his) -> (his, his) -> (his, in) -> (in, instead) -> 
+
+(instead, into) -> (into, is) -> (is, is) -> (is, its) -> (its, large) -> 
+
+(large, Man) -> (Man, Manolin) -> (Manolin, Manolin) -> (Manolin, marlin) -> (marlin, near) -> 
+
+(near, next) -> (next, night) -> (night, north) -> (north, now) -> (now, of) -> 
+
+(of, of) -> (of, of) -> (of, of) -> (of, Old) -> (Old, on) -> 
+
+(on, opens) -> (opens, out) -> (out, parents) -> (parents, player) -> (player, preparing) -> 
+
+(preparing, sail) -> (sail, salao) -> (salao, Santiago) -> (Santiago, Santiago) -> (Santiago, Santiago) -> 
+
+(Santiago, Santiagos) -> (Santiagos, Sea) -> (Sea, seen) -> (seen, shack) -> (shack, so) -> 
+
+(so, story) -> (story, story) -> (story, Straits) -> (Straits, streak) -> (streak, Stream) -> 
+
+(Stream, successful) -> (successful, talking) -> (talking, tells) -> (tells, tells) -> (tells, that) -> 
+
+(that, that) -> (that, that) -> (that, the) -> (the, the) -> (the, the) -> 
+
+(the, The) -> (The, the) -> (the, The) -> (The, the) -> (the, the) -> 
+
+(the, The) -> (The, to) -> (to, to) -> (to, to) -> (to, told) -> 
+
+(told, unluckiness) -> (unluckiness, unlucky) -> (unlucky, unlucky) -> (unlucky, venture) -> (venture, visits) -> 
+
+(visits, will) -> (will, with) -> (with, with) -> (with, with) -> (with, without) -> 
+
+(without, worst) -> (worst, young) -> null
